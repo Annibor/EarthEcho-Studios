@@ -1,39 +1,76 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# EarthEcho Studios
 
-Welcome,
+![EarthEcho Studios](documentation)
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+# Introduction
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+Welcome to EarthEcho Studios! I'm thrilled to have you here and share a glimpse of Sophies world of visual storytelling through photography. This is a fictional company and a made up character for this project. Sophie is an amazing photographer specializing in weddings, portraits, marketing and al the wonders of mother earth. This README serves as your guide to navigate through the building of this website. This webpage is for anyone that awant to catch a special moment or wanting tp get high-quality photos of their own products and stores. 
 
-## Codeanywhere Reminders
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+<!-- Screenshot of how website looks on different screens. -->
 
-`python3 -m http.server`
+# User Goals and Stories
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+<!-- Needs edit-->
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+## Website Owner Business Goals
 
-`http_server`
+<!-- Needs edit-->
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+Sophies goal with the website is for her future and already established costumers, to be able to see what they can expect from her as a photographer and also how they book her for photoshoots.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+- to deliver clear and easy to read information about her products.
+- to encourage customers to book her for their magical day, for taking photos for other companies websites and products.
+- to provide background information about who Sophie is and why the costumers ahould choose her.
+- the pictures need to be of high quality for a good user experience and also because they arethe products Sophie is offering from her website.
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+## User Goals
 
-To log into the Heroku toolbelt CLI:
+<!-- Needs edit-->
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+As a user I want to
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+- be able to navigate easly throughout the whole webpage.
+- it should be easy to navigate and go back and fourth between homepage and the other pages.
+- To retur to the homepage should only be one klick away.
+- easily return to the navigation menu at the top of the page from the bottom of the page
+- The website should be responsive, and therefore look well on all devises, from mobile to desktops.
+- the images should be high of qality because the pictures are the product.
 
----
+## User Stories
 
-Happy coding!
+<!-- Needs edit-->
+
+### As a business owner
+
+<!-- Needs edit-->
+
+As the website and business owner I want to
+
+- create an online presence for our business
+- grow our local customer base
+- to provide a contact for customers to order photoshoots from Sophie
+- make it easy for costumer to ask questions
+- provide easy understood information for new costumers as well as already existing.
+
+### As a general user of the website/customer I want to
+
+<!-- Needs edit-->
+
+- find out the contact information
+- being able to make a order of a photoshoot
+- get to know the photographer, so I know if this is someone I would like to hire or not.
+- view all the products
+- find relevant information of every product, in this case all the kinds of photoshoots.
+
+### As a new user I want to
+
+<!-- Needs edit-->
+
+- find information about the photographer.
+- find information about the products.
+- see cases from former costumers so I know if this photographer is what I'm looking for or not.
+
+# Design of the website
+
+<!-- Needs edit-->
