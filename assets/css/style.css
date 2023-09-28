@@ -1,22 +1,17 @@
 /* Google fonts import*/
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Lato:wght@300;400;700;900&family=Montserrat:wght@100;200;300;400;500;700&family=Work+Sans:wght@100;300;500&display=swap");
 
-/* Asterisk wildcard selector to override default styles added by the browser */
-* {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-
-}
-
 /*
+
+ <----- This is based on https://github.com/jonasschmedtmann/html-css-course/tree/master/final ---- >
+ 
 -1-TYPOGRAPHY SYSTEM 
 
 --Font sizes (px) 
 10 / 12/ 14 / 16 / 18 / 20 / 24 / 26 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
 
 --Font weights:
-
+Default: 400
 
 --Line heights: 
 Default: 1
@@ -42,25 +37,59 @@ Primary: #
 --shadows
 */
 
-/* Genaral styles */
-body {
-font-family: 'Lato',Inter, sans-serif;
-line-height: 1;
-color: ;
+/* Asterisk wildcard selector to override default styles added by the browser */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
 
+/* This is to chage 1 rem will be 10px and not 16px. Easier to count the rem. Copied from https://github.com/jonasschmedtmann/html-css-course/tree/master/final*/
+html {
+  /* font-size: 10px; = 62.5&% */
+  /* Percentage of user's browser font-size settings */
+  font-size: 62.5%;
+}
 
-/* HEADER */
+/* --- Genaral styles --- */
+body {
+  font-family: "Lato", Inter, sans-serif;
+  line-height: 1;
+  font-weight: 400;
+  color: 313638;
+}
+
+/* --- HEADER --- */
 .header {
   display: flex;
-  background-color: ;
+  background-color: #decbb7;
+  justify-content: space-between;
+  height: 15rem;
 }
-/* MAIN */
-main {
-  background-color: yellow;
+/* H1 LOGO */
+#logo {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 4.8rem;
 }
 
-/* FOOTER */
+/* NAV */
+.nav-list {
+  display: flex;
+  list-style: none;
+  gap: 4;
+}
+
+.nav-link {
+  font-size: 1.8rem;
+}
+
+/* --- MAIN --- */
+main {
+  background-color: #8f857d;
+}
+
+/* --- FOOTER --- */
 footer {
-  background-color: orange;
+  background-color: #5c5552;
 }
