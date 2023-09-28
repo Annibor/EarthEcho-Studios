@@ -91,19 +91,18 @@ body {
   padding: 2.5rem 0;
 }
 
-/* .nav-link:link, */
+.nav-link:link,
 .nav-link:visited {
   display: inline-block;
   text-decoration: none;
   font-size: 1.8rem;
-  color: #dda15e;
-  font-weight: 500;
-  /* transition: all 0.4sec; */
+  color: #fefae0;
+  transition: all 0.4s;
 }
 
 .nav-link:hover,
 .nav-link:active {
-  color: #fefae0;
+  color: #dda15e;
 }
 /*
 .nav-link:link,
