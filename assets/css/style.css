@@ -69,8 +69,10 @@ body {
   display: flex;
   background-color: #606c38;
   flex-direction: column;
+  align-items: center;
 
   height: 15rem;
+  padding: 3rem 4.8rem;
 }
 /* H1 LOGO */
 #logo {
@@ -85,13 +87,29 @@ body {
   display: flex;
   list-style: none;
   gap: 4rem;
+  t
 }
 
-.nav-link {
+.nav-link:link,
+.nav-link:visited {
+  display: inline-block;
+  text-decoration: none;
   font-size: 1.8rem;
   color: #dda15e;
+  font-weight: 500;
+  transition: all 0.4se;
 }
 
+.nav-link:hover,
+.nav-link:active {
+  color: #fefae0;
+}
+/*
+.nav-link:link,
+.nav-link:active {
+  color: #fefae0;
+}
+*/
 /* --- MAIN --- */
 main {
   background-color: #8f857d;
