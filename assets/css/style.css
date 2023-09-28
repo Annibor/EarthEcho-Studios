@@ -111,11 +111,18 @@ body {
 }
 */
 /* --- MAIN --- */
-main {
-  background-color: #8f857d;
+
+/* -- HERO --*/
+.hero {
+  max-width: 150rem;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
 }
 
-
+.hero-img {
+  width: 100%;
+}
 
 /* --- FOOTER --- */
 footer {
