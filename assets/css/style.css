@@ -21,6 +21,11 @@ Default: 1
 
 
 -2-COLORS:
+#606c38
+#283618
+#fefae0
+#dda15e
+#bc6c25
 
 Primary: #
 
@@ -62,8 +67,9 @@ body {
 /* --- HEADER --- */
 .header {
   display: flex;
-  background-color: #decbb7;
-  justify-content: space-between;
+  background-color: #606c38;
+  flex-direction: column;
+
   height: 15rem;
 }
 /* H1 LOGO */
@@ -71,17 +77,19 @@ body {
   font-family: "Montserrat", sans-serif;
   font-weight: 500;
   font-size: 4.8rem;
+  color: #dda15e;
 }
 
 /* NAV */
 .nav-list {
   display: flex;
   list-style: none;
-  gap: 4;
+  gap: 4rem;
 }
 
 .nav-link {
   font-size: 1.8rem;
+  color: #dda15e;
 }
 
 /* --- MAIN --- */
