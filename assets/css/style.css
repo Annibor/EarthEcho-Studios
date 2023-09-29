@@ -177,7 +177,18 @@ body {
   background-color: #dda15e;
 }
 
+gallery-container {
+  max-width: 150rem;
+  margin: 0 auto;
+  display: grid;
+  /* grid-template-columns: 1fr 1fr;*/
+  gap: 12.8rem;
+  align-items: center;
+}
 
+.gallery-img {
+  width: 100%;
+}
 /* --- FOOTER --- */
 footer {
   background-color: #5c5552;
