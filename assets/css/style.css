@@ -205,3 +205,12 @@ footer {
   padding: 12.8rem 0;
 }
 
+.btn-footer {
+  padding: 0.8rem 0;
+  color: #333;
+  outline: none;
+  background: transparent;
+  border: 1px colid #333;
+  width: 100%;
+  cursor: pointer;
+}
