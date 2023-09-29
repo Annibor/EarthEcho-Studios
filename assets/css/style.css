@@ -68,9 +68,15 @@ body {
   color: #313638;
 }
 
+.container {
+  max-width: 120rem;
+  margin: 0 auto;
+  padding: 0 2.8rem;
+}
+
 .grid {
   display: grid;
-  gap: 3.2rem;
+  gap: 6.4rem;
 }
 
 .grid--2-cols {
