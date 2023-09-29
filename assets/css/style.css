@@ -65,7 +65,7 @@ body {
   font-family: "Lato", Inter, sans-serif;
   line-height: 1;
   font-weight: 400;
-  color: 313638;
+  color: #313638;
 }
 
 /* --- HEADER --- */
@@ -110,6 +110,7 @@ body {
   color: #dda15e;
 }
 
+/* not working*/
 .active-page:active {
   background-color: #fefae0;
   color: #dda15e;
