@@ -60,12 +60,25 @@ html {
   font-size: 62.5%;
 }
 
-/* --- Genaral styles --- */
+/* --- General styles --- */
 body {
   font-family: "Lato", Inter, sans-serif;
   line-height: 1;
   font-weight: 400;
   color: #313638;
+}
+
+.grid {
+  display: grid;
+  gap: 3.2rem;
+}
+
+.grid--2-cols {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.grid--3-cols {
+  grid-template-columns: repeat(3, 1fr);
 }
 
 /* --- HEADER --- */
