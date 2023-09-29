@@ -37,6 +37,9 @@ Primary: #
 --Shades:
 --Accents:
 --Greys: 
+#888
+#767676 (lightets grey allowed on #fff)
+#6f6f6f ( lightest grey allowed on #fefae0)
 #555
 #333
 --Whitespace
@@ -205,12 +208,16 @@ footer {
   padding: 12.8rem 0;
 }
 
+.ul-footer {
+  list-style: none;
+}
+
 .btn-footer {
   padding: 0.8rem 0;
   color: #333;
   outline: none;
   background: transparent;
-  border: 1px colid #333;
+  border: 1px solid #333;
   width: 100%;
   cursor: pointer;
 }
