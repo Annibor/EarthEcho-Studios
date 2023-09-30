@@ -135,9 +135,11 @@ body {
 }
 
 /* not working*/
-.active-page:active {
-  background-color: #fefae0;
+.active-page {
   color: #dda15e;
+  font-weight: 500;
+  text-transform: uppercase;
+  transform: scale(1.2);
 }
 
 /* --------------------*/
@@ -264,23 +266,20 @@ body {
   padding: 12.8rem;
 }
 
-.contact-text-box{
+.contact-text-box {
   background-color: #dda15e;
   padding: 6.4rem;
-
 }
 
-.contact-h2{
+.contact-h2 {
   color: #313638;
   margin-bottom: 4.8rem;
 }
 
 .contact-text {
-  font-size: 2.0;
+  font-size: 2;
   line-height: 1.6;
 }
-
-
 
 /* --- FOOTER --- */
 footer {
@@ -288,7 +287,6 @@ footer {
   padding: 9.6rem 0;
 
   height: 60rem;
-
 }
 
 .ul-footer {
