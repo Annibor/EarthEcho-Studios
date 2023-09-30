@@ -228,9 +228,33 @@ body {
 /* --------------------*/
 /* -- GALLERY.HTML -- */
 /* --------------------*/
+
+/* This code in this container is based on https://codepen.io/GeorgePark/pen/vdqYom */
+.heading-gallery-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 9.6rem;
+}
+
+.heading-gallery {
+  font-size: 5.2rem;
+  font-family: "Montserrar", sans-serif;
+  font-weight: 600;
+  line-height: 1.1;
+  color: #333;
+  letter-spacing: -1px;
+  margin-bottom: 4.8rem;
+}
+
 .gallery-container {
   box-sizing: border-box;
-  padding: 1rem;
+  padding: 9.8rem 0;
+}
+
+.gallery-img:hover img {
+  transform: scale(1.15);
+}
 
 /* --------------------*/
 /* -- CONTACT.HTML -- */
