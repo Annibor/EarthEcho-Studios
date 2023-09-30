@@ -138,6 +138,10 @@ body {
   color: #dda15e;
 }
 
+/* --------------------*/
+/* -- INDEX.HTML -- */
+/* --------------------*/
+
 /* --- MAIN --- */
 
 /* -- HERO --*/
@@ -181,32 +185,48 @@ body {
   background-color: #dda15e;
 }
 
-.gallery-img {
-  width: 100%;
-}
 .gallery-container {
-  display: grid;
-  grid-template-columns: 1fr;
-  grid-template-rows: 1fr;
+  display: flex;
+  flex-direction: column;
+}
+
+.gallery-row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0; /* Adjust as needed */
+}
+
+.gallery-item {
+  flex-grow: 1;
+  overflow: hidden;
 }
 
 .gallery-item-1 {
-  grid-column: 1/4;
-  grid-row: 1;
+  flex-basis: 30%; /* Adjust the width of the first item as needed */
 }
+
 .gallery-item-2 {
-  grid-column: 5;
-  grid-row: 1;
+  flex-basis: 60%; /* Adjust the width of the second item as needed */
 }
 
 .gallery-item-3 {
-  grid-column: 1;
-  grid-row: 2;
+  flex-basis: 60%; /* Adjust the width of the third item as needed */
 }
+
 .gallery-item-4 {
-  grid-column: 2 / 5;
-  grid-row: 2;
+  flex-basis: 30%; /* Adjust the width of the fourth item as needed */
 }
+
+.gallery-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* --------------------*/
+/* -- CONTACT.HTML -- */
+/* --------------------*/
+
 /* --- FOOTER --- */
 footer {
   padding: 12.8rem 0;
