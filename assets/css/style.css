@@ -232,8 +232,8 @@ body {
   flex-direction: column;
   align-items: center;
   padding: 9.6rem;
-  height: 15rem;
-  padding: 3rem 4.8rem;
+  height: 20rem;
+  padding: 3rem 3rem;
   width: 100%;
 }
 .gallery-h2 {
@@ -243,12 +243,13 @@ body {
   line-height: 1.1;
   color: #333;
   letter-spacing: -1px;
-  margin-bottom: 4.8rem;
+  padding-top: 4rem;
 }
 .gallery-text {
+  padding-top: 4rem;
   font-size: 2.4rem;
   line-height: 1.6;
-  margin-bottom: 4.8rem;
+  max-width: 74rem;
 }
 
 .container-gallery-products {
@@ -279,8 +280,6 @@ body {
 /* --------------------*/
 /* -- PRODUCTS.HTML -- */
 /* --------------------*/
-
-
 
 /* --------------------*/
 /* -- CONTACT.HTML -- */
