@@ -35,6 +35,7 @@ Primary: #
 
 --Tints::
 --Shades:
+#96561e
 --Accents:
 --Greys: 
 #888
@@ -259,6 +260,11 @@ body {
 } */
 
 /* --------------------*/
+/* -- PRODUCTS.HTML -- */
+/* --------------------*/
+
+
+/* --------------------*/
 /* -- CONTACT.HTML -- */
 /* --------------------*/
 
@@ -345,6 +351,7 @@ body {
   box-shadow: 0 2px 3px rgba(0, 0, 0, 0.2);
   font-family: "Montserrat", sans-serif;
   font-weight: 600;
+  color: #96561e;
 }
 
 /* --- FOOTER --- */
