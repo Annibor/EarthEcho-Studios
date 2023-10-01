@@ -266,6 +266,9 @@ body {
   padding: 12.8rem;
 }
 
+.contact-text-box {
+  max-width: 450px;
+}
 .contact-h2 {
   font-size: 4.4rem;
   font-family: "Montserrat", sans-serif;
@@ -274,11 +277,6 @@ body {
   color: #fefae0;
   letter-spacing: -1px;
   margin-bottom: 4.8rem;
-}
-
-.contact-text-box {
-  background-color: #bc6c25;
-  padding: 6.4rem;
 }
 
 .contact-text {
@@ -326,10 +324,11 @@ body {
   margin-top: 1.8rem;
   padding: 1.4rem;
   font-size: 1.8rem;
-  font-family: inherit;
   border: none;
   border-radius: 8px;
   box-shadow: 0 2px 3px rgba(0, 0, 0, 0.2);
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
 }
 
 /* --- FOOTER --- */
