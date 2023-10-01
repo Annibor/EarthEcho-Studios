@@ -288,7 +288,6 @@ body {
   display: block;
   font-size: 1.8rem;
   margin-bottom: 1.4rem;
-  margin-top: 1.8rem;
 }
 
 .fname,
@@ -296,6 +295,7 @@ body {
 .email,
 .textarea {
   width: 100%;
+  margin-bottom: 1.8rem;
   padding: 1.4rem;
   font-size: 1.8rem;
   font-family: inherit;
@@ -304,8 +304,24 @@ body {
   box-shadow: 0 2px 3px rgba(0, 0, 0, 0.2);
 }
 
-.btn-contact {
+.fname,
+.lname,
+.email,
+.textarea ::placeholder {
+  color: #888;
 }
+
+.btn-contact {
+  width: 100%;
+  margin-top: 1.8rem;
+  padding: 1.4rem;
+  font-size: 1.8rem;
+  font-family: inherit;
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.2);
+}
+
 /* --- FOOTER --- */
 footer {
   width: 100%;
