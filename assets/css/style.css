@@ -266,6 +266,22 @@ body {
   padding: 12.8rem;
 }
 
+.container-contact {
+  display: grid;
+  max-width: 150rem;
+  grid-template-columns: 1fr 1fr;
+  background-color: #bc6c25;
+  padding: 8rem;
+  gap: 3.6rem;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12.8rem;
+  align-items: center;
+  border-radius: 8px;
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.2);
+}
+
 .contact-text-box {
   max-width: 450px;
 }
