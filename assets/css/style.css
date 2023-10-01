@@ -267,7 +267,7 @@ body {
 }
 
 .contact-text-box {
-  background-color: #dda15e;
+  background-color: #bc6c25;
   padding: 6.4rem;
 }
 
@@ -286,8 +286,11 @@ body {
 .email-label,
 .textarea-label {
   display: block;
+  font-family: "Montserrat", sans-serif;
   font-size: 1.8rem;
   margin-bottom: 1.4rem;
+  color: #fefae0;
+  font-weight: 600;
 }
 
 .fname,
