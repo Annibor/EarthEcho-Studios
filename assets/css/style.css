@@ -281,6 +281,24 @@ body {
   line-height: 1.6;
 }
 
+.fname-label,
+.lname-label,
+.email-label {
+  display: block;
+  font-size: 1.8rem;
+  margin-bottom: 1.4rem;
+}
+
+.fname,
+.lname,
+.email {
+  width: 100%;
+  padding: 1.4rem;
+  font-size: 1.8rem;
+}
+
+.btn-contact {
+}
 /* --- FOOTER --- */
 footer {
   width: 100%;
