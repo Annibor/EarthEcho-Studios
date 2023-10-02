@@ -400,7 +400,7 @@ body {
 /* --- FOOTER --- */
 .footer {
   width: 100%;
-  padding: 7.6rem;
+  padding: 6.4rem;
   background-color: #283618;
   height: 44rem;
 }
@@ -600,5 +600,18 @@ body {
     padding-top: 2rem;
     text-align: center;
   }
+
+  .gallery-h2,
+  .contact-h2 {
+    font-size: 3.6rem;
+  }
+
+  .footer{
+    padding:3.2rem;
+  height: 2.8rem;
+  }
+
+
   
+
 }
