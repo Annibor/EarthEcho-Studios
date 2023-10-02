@@ -113,7 +113,7 @@ body {
 }
 
 /* --------------------*/
-/* -- NAV INDEX.HTML -- */
+/* -- NAV-- */
 /* --------------------*/
 
 .nav-list {
@@ -144,17 +144,6 @@ body {
   font-weight: 500;
   text-transform: uppercase;
   transform: scale(1.2);
-}
-
-.btn-mobile-nav {
-  border: none;
-  background: none;
-  cursor: pointer;
-}
-
-.icon-mobile-nav {
-  font-size: 2.1rem;
-  color: #fefae0;
 }
 
 /* --------------------*/
@@ -536,5 +525,48 @@ body {
   .hero-text-box,
   .hero-img-box {
     text-align: center;
+  }
+}
+
+/* --------------------*/
+/* -- BELOW 944px (Tablets) -- */
+/* --------------------*/
+
+@media (max-width: 47rem) {
+
+  .nav-list {
+    flex-direction: column;
+  }
+
+  .main-nav {
+    background: rgba(148, 155, 140, 0.7);
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    height: 100vh;
+    width: 100%;
+    display: none;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .nav-list{
+    display: column;
+  }
+
+ 
+
+  .label-mobile-nav {
+    font-size: 2.6rem;
+  }
+
+  .checkbox {
+    display: none;
+  }
+
+  .nav-checkbox:checked ~ checked-main-nav {
+    display: none;
   }
 }
