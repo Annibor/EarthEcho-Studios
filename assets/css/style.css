@@ -446,8 +446,6 @@ body {
   font-size: 1.4rem;
 }
 
-
-
 /* --------------------*/
 /* -- BELOW 1344px (smaller desktops) -- */
 /* --------------------*/
@@ -499,4 +497,21 @@ body {
   .textarea {
     font-size: 1.6rem;
   }
+}
+
+/* --------------------*/
+/* -- BELOW 944px (Tablets) -- */
+/* --------------------*/
+
+@media (max-width: 59rem) {
+  html {
+    font-size: 50%;
+  }
+
+  .hero {
+   grid-template-columns: 1fr;
+}
+
+.hero-img {
+  width: 60%;
 }
