@@ -369,11 +369,20 @@ body {
 }
 
 /* --- FOOTER --- */
-footer {
+.footer {
   width: 100%;
-  padding: 9.6rem 0;
+  padding: 7.6rem;
+  background-color: #283618;
+  height: 44rem;
+}
 
-  height: 60rem;
+.footer-label {
+  display: block;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.8rem;
+  margin-bottom: 1.4rem;
+  color: #fefae0;
+  font-weight: 500;
 }
 
 .ul-footer {
@@ -385,16 +394,30 @@ footer {
 }
 
 .footer-link {
-  height: 3.6rem;
-  width: 3.6rem;
+  height: 4.6rem;
+  width: 4.6rem;
+  color: #fefae0;
+}
+.footer-email {
+  width: 100%;
+  margin-bottom: 1.8rem;
+  padding: 1.4rem;
+  font-size: 1.8rem;
+  font-family: inherit;
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.2);
 }
 
 .btn-footer {
-  padding: 0.8rem 0;
-  color: #333;
-  outline: none;
-  background: transparent;
-  border: 1px solid #333;
   width: 100%;
-  cursor: pointer;
+  margin-top: 1.8rem;
+  padding: 1.4rem;
+  font-size: 1.8rem;
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.2);
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  color: #96561e;
 }
