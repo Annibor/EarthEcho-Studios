@@ -281,6 +281,8 @@ body {
 /* -- PRODUCTS.HTML -- */
 /* --------------------*/
 
+
+
 /* --------------------*/
 /* -- CONTACT.HTML -- */
 /* --------------------*/
@@ -379,7 +381,7 @@ body {
 .address {
   color: #fefae0;
   padding-top: 4rem;
-  font-size: 2rem;
+  font-size: 1.6rem;
   line-height: 1.6;
   max-width: 74rem;
 }
@@ -431,4 +433,9 @@ body {
   font-family: "Montserrat", sans-serif;
   font-weight: 600;
   color: #96561e;
+}
+
+.copyright {
+  color: #fefae0;
+  font-size: 1.4rem;
 }
