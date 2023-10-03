@@ -140,7 +140,7 @@ body {
 
 .nav-checkbox {
   display: none;
-}
+} 
 
 /* not working*/
 .active-page {
@@ -542,12 +542,12 @@ body {
     bottom: 0;
     height: 100vh;
     width: 100%;
-    display: none;
 
-    display: flex;
+    display: flex; 
     align-items: center;
     justify-content: center;
     transition: all 0.7s ease-in;
+    display: none;
   }
 
   .nav-list {
@@ -556,6 +556,10 @@ body {
     flex-direction: column;
   }
 
+  .header{
+    flex-direction: row;
+    justify-content: space-between;
+  }
 
   .nav-list {
     display: column;
@@ -567,15 +571,16 @@ body {
   }
 
   .label-mobile-nav {
-    font-size: 2.6rem;
+    font-size: 3.2rem;
     color: #fefae0;
+    
   }
 
   .nav-checkbox {
-    display: block;
+    display: none;
   }
 
-  .nav-checkbox:checked ~ main-nav {
+  .nav-checkbox:checked~main-nav {
     display: block;
   }
 }
