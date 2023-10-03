@@ -547,8 +547,6 @@ body {
     bottom: 0;
     height: 100vh;
     width: 100%;
-
-    display: flex;
     align-items: center;
     justify-content: center;
     transition: all 0.7s ease-in;
@@ -559,6 +557,30 @@ body {
     display: flex;
     list-style: none;
     flex-direction: column;
+    margin-top: 12.8rem;
+    align-items: center;
+  }
+
+  .nav-link:link,
+  .nav-link:visited {
+    font-size: 3rem;
+  }
+  
+  .label-mobile-nav {
+    font-size: 3.2rem;
+    color: #fefae0;
+    cursor: pointer;
+  }
+
+
+  .nav-checkbox {
+    display: none;
+  }
+
+
+  .nav-checkbox:checked ~ .main-nav {
+    display: block;
+    left: 0;
   }
 
   .header {
@@ -570,22 +592,12 @@ body {
     display: column;
   }
 
-  .nav-link:link,
-  .nav-link:visited {
-    font-size: 3rem;
-  }
-
-  .label-mobile-nav {
+  .close-button {
+    background: none;
+    border: none;
     font-size: 3.2rem;
-    color: #fefae0;
-  }
-
-  .nav-checkbox {
+    cursor: pointer;
     display: none;
-  }
-
-  .nav-checkbox:checked ~ main-nav {
-    display: block;
   }
 }
 
