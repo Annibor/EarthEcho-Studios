@@ -448,8 +448,12 @@ body {
 }
 
 .copyright {
+  display: flex;
   color: #fefae0;
   font-size: 1.4rem;
+  justify-content: center;
+  align-items: center;
+  padding-top: 2.4rem;
 }
 
 /* --------------------*/
