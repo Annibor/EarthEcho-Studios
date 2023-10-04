@@ -174,7 +174,7 @@ body {
   font-size: 5.2rem;
   font-family: "M";
   font-weight: 600;
-  line-height: 1.1;
+  line-height: 4.5rem;
   color: #333;
   letter-spacing: -1px;
   margin-bottom: 4.8rem;
@@ -182,7 +182,7 @@ body {
 
 .hero-description {
   font-size: 2.4rem;
-  line-height: 1.6;
+  line-height: 2.6rem;
   margin-bottom: 4.8rem;
 }
 
@@ -237,22 +237,22 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 9.6rem;
   height: 20rem;
-  padding: 3rem 3rem;
-  width: 100%;
+  padding-top: 4.5rem;
+  max-width: 100rem;
+  margin: 0 auto;
+  justify-content: space-between;
+  text-shadow: 0rem 0.2rem 0.2rem rgba(0, 0, 0, 0.1);
 }
 .gallery-h2 {
   font-size: 4.4rem;
-  font-family: "M";
+  font-family: "Montserrat",sans-serif;
   font-weight: 600;
-  line-height: 1.1;
   color: #333;
   letter-spacing: -1px;
-  padding-top: 4rem;
+
 }
 .gallery-text {
-  padding-top: 4rem;
   font-size: 2.4rem;
   line-height: 1.6;
   max-width: 74rem;
@@ -314,10 +314,11 @@ body {
   align-items: center;
   border-radius: 8px;
   box-shadow: 0.5px 2px 3px rgba(0, 0, 0, 0.4);
+  cursor: pointer;
 }
 
 .contact-text-box {
-  max-width: 450px;
+  max-width: 45rem;
 }
 .contact-h2 {
   font-size: 4.4rem;
@@ -491,6 +492,11 @@ body {
     gap: 4.8rem;
   }
 
+  .container-gallery-products {
+    padding: 7.6rem;
+  
+  }
+
   .gallery-h2,
   .contact-h2 {
     font-size: 3.6rem;
@@ -534,6 +540,15 @@ body {
   .hero-text-box,
   .hero-img-box {
     text-align: center;
+  }
+
+  .text-box{
+    height: 19rem;
+  }
+
+  .container-gallery-products {
+    padding: 5.6rem;
+  
   }
 
   .section-contact{
@@ -621,14 +636,16 @@ body {
 /* --------------------*/
 
 @media (max-width: 44rem) {
-  .gallery-h2 {
-    padding-top: 2rem;
-  }
-
+  
   .gallery-text {
     max-width: 54rem;
-    padding-top: 2rem;
     text-align: center;
+    font-size: 2rem;
+  }
+  
+  .container-gallery-products {
+    margin: 2rem;
+  
   }
 
   .gallery-h2,
@@ -674,32 +691,32 @@ body {
 
   }
 
-  .gallery-section{
-    padding:4.8rem 0;
+  .hero{
+    gap: 2rem;
   }
 
-  .gallery-h2, .contact-h2 {
-  font-size: 2.8rem;
+  .hero-img {
+    width: 50%;
   }
 
   .section-hero {
     padding: 3.2rem;
   }
-  
-  .container-gallery-products{
-    padding: 3.2rem;
-  }
 
-  .products-gallery {
-    display: flex;
-    flex-wrap: wrap;
-    margin: -0.5rem -0.5rem;
+  .heading-primary, .hero-description{
+    margin-bottom: 2rem;
   }
 
   .text-box{
-    padding: 0 3.2rem ;
+   margin:auto 2rem;
   }
 
+
+
+  .gallery-h2, .contact-h2 {
+  font-size: 2.8rem;
+  }
+ 
   .gallery-text{
     font-size: 1.8rem;
   }
@@ -714,4 +731,5 @@ body {
   }
 .container-contact {
   padding: 2.4rem;
+}
 }
