@@ -105,14 +105,7 @@ body {
   padding: 3rem 4.8rem;
 }
 
-.sicky {
-  position: fixed;
-  top: 0;
-  bottom: 0;
-  width: 100%;
-  z-index: 22;
-  box-shadow: 0.5px 2px 3px rgba(0, 0, 0, 0.2);
-}
+
 
 .header-div {
   display: flex;
