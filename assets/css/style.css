@@ -286,7 +286,9 @@ body {
 /* -- PRODUCTS.HTML -- */
 /* --------------------*/
 
-
+products-h2{
+  text-align: center;
+}
 
 
 .product-img {
