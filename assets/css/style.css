@@ -384,7 +384,7 @@ products-h2{
   font-size: 1.8rem;
   border: none;
   border-radius: 8px;
-  box-shadow: 0.5 2px 3px rgba(0, 0, 0, 0.2);
+  box-shadow: 0.5px 2px 3px rgba(0, 0, 0, 0.2);
   font-family: "Montserrat", sans-serif;
   font-weight: 600;
   color: #96561e;
@@ -449,7 +449,7 @@ products-h2{
   font-size: 1.8rem;
   border: none;
   border-radius: 8px;
-  box-shadow: 0.5 2px 3px rgba(0, 0, 0, 0.2);
+  box-shadow: 0.5px 2px 3px rgba(0, 0, 0, 0.2);
   font-family: "Montserrat", sans-serif;
   font-weight: 600;
   color: #96561e;
@@ -625,7 +625,7 @@ products-h2{
   }
 
   .nav-list {
-    display: column;
+    flex-direction: column;
   }
 
   .close-button {
@@ -719,7 +719,7 @@ products-h2{
   }
 
   #logo {
-    font-weight: 500rem;
+    font-weight: 500;
     font-size: 2.8rem;
   }
 
