@@ -246,11 +246,10 @@ body {
 }
 .gallery-h2 {
   font-size: 4.4rem;
-  font-family: "Montserrat",sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 600;
   color: #333;
   letter-spacing: -1px;
-
 }
 .gallery-text {
   font-size: 2.4rem;
@@ -494,7 +493,6 @@ body {
 
   .container-gallery-products {
     padding: 7.6rem;
-  
   }
 
   .gallery-h2,
@@ -542,34 +540,31 @@ body {
     text-align: center;
   }
 
-  .text-box{
+  .text-box {
     height: 19rem;
   }
 
   .container-gallery-products {
     padding: 5.6rem;
-  
   }
 
-  .section-contact{
+  .section-contact {
     padding: 9.8rem;
   }
-
 
   .footer {
     padding: 3rem 3rem 0 3rem;
     height: 30rem;
   }
 
-  .footer-section{
-    padding:0;
+  .footer-section {
+    padding: 0;
     gap: 0.5rem;
   }
 
-  .footer-label{
+  .footer-label {
     font-size: 1.4rem;
   }
-
 
   /* --------------------*/
   /* -- NAVBAR -- */
@@ -600,18 +595,16 @@ body {
   .nav-link:visited {
     font-size: 3rem;
   }
-  
+
   .label-mobile-nav {
     font-size: 3.2rem;
     color: #fefae0;
     cursor: pointer;
   }
 
-
   .nav-checkbox {
     display: none;
   }
-
 
   .nav-checkbox:checked ~ .main-nav {
     display: block;
@@ -641,13 +634,12 @@ body {
 /* --------------------*/
 
 @media (max-width: 44rem) {
-  
   .gallery-text {
     max-width: 54rem;
     text-align: center;
     font-size: 2rem;
   }
-  
+
   .container-gallery-products {
     margin: 2rem;
   }
@@ -671,29 +663,31 @@ body {
     margin: 2rem 2rem 0 2rem;
   }
 
-  .ul-footer{
+  .ul-footer {
     flex-direction: row;
     justify-content: center;
   }
 
   .footer-link {
     font-size: 3.8rem;
-    
   }
 
-  .logo-adress, .social-links {
+  .logo-adress,
+  .social-links {
     grid-row: 2;
   }
 
-  .btn-footer{
+  .btn-footer,
+  .btn-contact {
     padding: 2rem;
-  } 
+  }
 
   .section-contact {
     padding: 6.4rem;
   }
 
-  .contact-h2, .contact-text{
+  .contact-h2,
+  .contact-text {
     margin-bottom: 2.4rem;
   }
 }
@@ -712,17 +706,16 @@ body {
     grid-template-columns: 1fr;
   }
 
-  .header{
+  .header {
     padding: 2rem 2.8rem;
   }
 
   #logo {
     font-weight: 500rem;
     font-size: 2.8rem;
-
   }
 
-  .hero{
+  .hero {
     gap: 2rem;
   }
 
@@ -734,26 +727,43 @@ body {
     padding: 3.2rem;
   }
 
-  .heading-primary, .hero-description{
+  .heading-primary,
+  .hero-description {
     margin-bottom: 2rem;
   }
 
-  .text-box{
-   margin:auto 2rem;
+  .text-box {
+    margin: auto 2rem;
   }
 
-  .gallery-h2, .contact-h2 {
-  font-size: 2.8rem;
+  .gallery-h2,
+  .contact-h2 {
+    font-size: 2.8rem;
   }
- 
-  .gallery-text{
+
+  .gallery-text {
     font-size: 1.8rem;
   }
 
   .section-contact {
     padding: 2.4rem;
   }
-.container-contact {
-  padding: 2.4rem;
-}
+  .container-contact {
+    padding: 2.4rem;
+  }
+
+  .footer {
+    height: 50rem;
+  }
+
+  .footer-section {
+    grid-template-columns: 1fr;
+    gap: 0;
+  }
+
+  .logo-adress {
+    display: flex;
+    grid-row: 3;
+    justify-content: center;
+  }
 }
