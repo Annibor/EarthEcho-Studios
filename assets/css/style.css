@@ -411,6 +411,8 @@ height: auto;
 }
 
 .address {
+  display: flex;
+  justify-content: end;
   color: #fefae0;
   padding-top: 5rem;
   font-size: 1.6rem;
@@ -441,7 +443,7 @@ height: auto;
 }
 
 .footer-link {
-  font-size: 1.8rem;
+  font-size: 2.8rem;
   color: #fefae0;
 }
 .footer-email {
