@@ -386,9 +386,9 @@ body {
 /* --- FOOTER --- */
 .footer {
   width: 100%;
-  padding: 6.4rem;
+  padding: 4.8rem;
   background-color: #283618;
-  height: 44rem;
+  height: 36rem;
 }
 
 .address {
@@ -557,8 +557,13 @@ body {
 
 
   .footer {
-    padding: 3.2rem;
-    height: 32rem;
+    padding: 3rem 3rem 0 3rem;
+    height: 30rem;
+  }
+
+  .footer-section{
+    padding:0;
+    gap: 0.5rem;
   }
 
   .footer-label{
@@ -653,7 +658,7 @@ body {
   }
 
   .footer {
-    height: 40rem;
+    height: 42rem;
     padding: 0;
   }
 
@@ -679,6 +684,10 @@ body {
   .logo-adress, .social-links {
     grid-row: 2;
   }
+
+  .btn-footer{
+    padding: 2rem;
+  } 
 
   .section-contact {
     padding: 6.4rem;
