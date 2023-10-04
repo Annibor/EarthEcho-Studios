@@ -645,7 +645,6 @@ body {
   
   .container-gallery-products {
     margin: 2rem;
-  
   }
 
   .gallery-h2,
@@ -654,8 +653,31 @@ body {
   }
 
   .footer {
-    padding: 3.2rem;
-    height: 2.8rem;
+    height: 40rem;
+    padding: 0;
+  }
+
+  .footer-section {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .subscribe {
+    grid-column: span 2;
+    margin: 2rem 2rem 0 2rem;
+  }
+
+  .ul-footer{
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  .footer-link {
+    font-size: 3.8rem;
+    
+  }
+
+  .logo-adress, .social-links {
+    grid-row: 2;
   }
 
   .section-contact {
@@ -711,19 +733,12 @@ body {
    margin:auto 2rem;
   }
 
-
-
   .gallery-h2, .contact-h2 {
   font-size: 2.8rem;
   }
  
   .gallery-text{
     font-size: 1.8rem;
-  }
-
-
-  .footer {
-    padding: 3.2rem;
   }
 
   .section-contact {
