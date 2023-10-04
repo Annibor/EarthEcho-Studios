@@ -37,7 +37,6 @@
       href="assets/favicon/favicon-16x16.png"
     />
     <link rel="manifest" href="assets/favicon/site.webmanifest" />
-    <link rel="stylesheet" href="assets/css/queries.css" />
 
     <!-- Stylesheet -->
     <link rel="stylesheet" href="assets/css/style.css" />
@@ -45,21 +44,22 @@
   <body>
     <!-- Header -->
     <header class="header">
-      <h1 id="logo">EarthEcho Studios</h1>
-      <input type="checkbox" class="nav-checkbox" id="nav-checkbox" name="nav-checkbox" />
-    
-      <label for="nav-checkbox" class="label-mobile-nav"
-      > <i class="fa-solid fa-bars"></i>
-      </label>
-      
-      <nav class="main-nav">
+      <div class="header-div">
+        <h1 id="logo">EarthEcho Studios</h1>
+       <input type="checkbox" class="nav-checkbox" id="nav-checkbox" name="nav-checkbox" />
+       <label for="nav-checkbox" class="label-mobile-nav"><i class="fa-solid fa-bars"></i>
+       </label>
+       <nav class="main-nav">
         <ul class="nav-list">
           <li><a class="nav-link active-page" href="index.html">Home</a></li>
           <li><a class="nav-link" href="gallery.html">Gallery</a></li>
           <li><a class="nav-link" href="products.html">Products</a></li>
           <li><a class="nav-link" href="contact.html">Conatct</a></li>
         </ul>
-      </nav>
+       </nav>
+
+      </div>
+      
        
     </header>
 
@@ -75,7 +75,7 @@
             />
           </div>
           <div class="hero-text-box">
-            <h1 class="heading-primary">Discover the World Through My Lens</h1>
+            <h2 class="heading-primary">Discover the World Through My Lens</h2>
             <p class="hero-description">
               Hi! I'm Sophie, and I invite you to a visual adventure with me. As
               a passionate photographer, I specialize in capturing the essence
@@ -89,7 +89,7 @@
         </div>
       </section>
 
-      <section class="gallery-section">
+      <div class="gallery-section">
         <div class="gallery-container">
           <div class="gallery-row">
             <div class="gallery-item gallery-item-1">
@@ -127,7 +127,7 @@
             </div>
           </div>
         </div>
-      </section>
+      </div>
     </main>
 
     <!-- Footer -->
