@@ -144,9 +144,6 @@ body {
   color: #dda15e;
 }
 
-.nav-checkbox {
-  display: none;
-}
 
 /* not working*/
 .active-page {
@@ -155,6 +152,24 @@ body {
   text-transform: uppercase;
   transform: scale(1.2);
 }
+
+/* --------------------*/
+/* -- MOBILE NAV -- */
+/* --------------------*/
+
+.mobile-nav-btns{
+border: none;
+background: none;
+cursor: pointer;
+display: none;
+font-size: 1.6rem;
+}
+
+.close-btn{
+  display: none;
+}
+
+
 
 /* --------------------*/
 /* -- INDEX.HTML -- */
