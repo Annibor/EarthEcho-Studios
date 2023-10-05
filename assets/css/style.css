@@ -157,24 +157,18 @@ body {
 /* --------------------*/
 
 .mobile-nav-btns{
-border: none;
-background: none;
-cursor: pointer;
-display: none;
-}
-
-.open-btn{
-  font-size: 2.8rem;
-  color: #fefae0;
-
-}
-
-.close-btn{
+  border:none;
+  background: none;
+  cursor: pointer;
   display: none;
-  font-size: 2.8rem;
+  }
+
+.fa-bars{
+  font-size: 3.2rem;
   color: #fefae0;
 
 }
+
 
 /* --------------------*/
 /* -- INDEX.HTML -- */
@@ -586,6 +580,9 @@ display: none;
     padding: 0;
   }
 
+  #logo, .mobile-nav-btns{
+    padding: 3rem;
+  }
 
 
   .hero {
@@ -656,11 +653,15 @@ display: none;
     transform: translateX(0);
   }
 
-  .open-nav .close-btn{
+  .mobile-nav-btns{
+    display: block;
+    }
+
+  .open-nav .fa-xmark{
     display: block;
   }
 
-  .open-nav .close-btn{
+  .open-nav .fa-xmark{
     display: none;
   }
 
@@ -761,13 +762,14 @@ display: none;
     grid-template-columns: 1fr;
   }
 
-  .header {
-    padding: 2rem 2.8rem;
-  }
-
   #logo {
     font-weight: 500;
     font-size: 2.8rem;
+    padding:2.8rem;
+  }
+
+  .mobile-nav-btns{
+    padding: 2rem 2.8rem;
   }
 
   .hero {
