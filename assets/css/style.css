@@ -645,6 +645,14 @@ font-size: 1.6rem;
 
   }
 
+  .open-nav .close-btn{
+    display: block;
+  }
+
+  .open-nav .close-btn{
+    display: none;
+  }
+
 
   .nav-list {
     display: flex;
@@ -659,25 +667,10 @@ font-size: 1.6rem;
     font-size: 3rem;
   }
 
-  .open-nav
-
   .header {
     flex-direction: row;
     justify-content: space-between;
   }
-
-  .nav-list {
-    flex-direction: column;
-  }
-
-  .close-button {
-    background: none;
-    border: none;
-    font-size: 3.2rem;
-    cursor: pointer;
-    display: none;
-  }
-}
 
 /* --------------------*/
 /* -- BELOW 704px (Smaller Tablets) -- */
