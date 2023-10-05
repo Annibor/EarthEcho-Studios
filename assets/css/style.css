@@ -161,14 +161,20 @@ border: none;
 background: none;
 cursor: pointer;
 display: none;
-font-size: 1.6rem;
+}
+
+.open-btn{
+  font-size: 2.8rem;
+  color: #fefae0;
+
 }
 
 .close-btn{
   display: none;
+  font-size: 2.8rem;
+  color: #fefae0;
+
 }
-
-
 
 /* --------------------*/
 /* -- INDEX.HTML -- */
@@ -676,6 +682,7 @@ font-size: 1.6rem;
     flex-direction: row;
     justify-content: space-between;
   }
+}
 
 /* --------------------*/
 /* -- BELOW 704px (Smaller Tablets) -- */
@@ -815,3 +822,4 @@ font-size: 1.6rem;
     justify-content: center;
   }
 }
+
