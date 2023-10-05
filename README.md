@@ -118,4 +118,11 @@ As the website and business owner I want to
  - A carousel of reviews from former costumers, to make the users trust the product Sophie offers on her webpage. 
  - The form could be given more catagories, like buttons for different kind of photoshoots the user is intrested in.
 
+## Testing
+- Throughout the whole development of the webpage, I've made tests in: 
+- Dev-tools 
+- Lighthouse 
+- W3c hmtl  validator
+- W3c css validator (jigsaw)
+
 
