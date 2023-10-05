@@ -97,8 +97,25 @@ As the website and business owner I want to
  - The hero is devided into on picture of Sophie, the photographer and owner of the company.
  - The other half is a breif introduction of the heart and content of the website, to make it clear for he users what they can expect. This also provides the uswr with a feelign of what kind of photographer Sophie is, so they can decisde wwther she is the right photographer for them.
  
- ### Gallery section 
+ ### Gallery Section 
  - This sections pourpose is to give a hint of what kind of photos Sophie takes. 
  
- ## Gallery page
- - This pages pourpose is to give the user a deep understanding of Sophies unic style of photography. 
+ ### Gallery Page
+ - This pages pourpose is to give the user a deep understanding of Sophies uniqe style of photography ,and there is a deep shadow beside every image, to make them really pop out from the crisp white background. The layout of the images is fully responsive.
+
+ ### Product Page
+ - The images and descriptions for each picture have a deep shadow to make sure that they are the focus on the page.
+
+ ### Contact Page 
+ - The contact page is made out of a form and a textbox. These elements have a background color to make sure they are in focus for the user. The form is fully responsive to make the best possible user experience, like a large buttons once reached mobile size, to make it easier to click on the button. 
+
+ ## Future Features
+ Future features for the webpage are:
+ - A direct link to the contact me page from the home page.
+ - Smooth scrolling, to improve user experience. 
+ - A button/function tha users can click if they are at the bottom of each page, that takes them directly to the top of the page. 
+ - A more indept, devided gallery. For example a link to a gallery for every catagrory of photography Sophie offers. 
+ - A carousel of reviews from former costumers, to make the users trust the product Sophie offers on her webpage. 
+ - The form could be given more catagories, like buttons for different kind of photoshoots the user is intrested in.
+
+
