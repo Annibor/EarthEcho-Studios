@@ -660,6 +660,10 @@ body {
     cursor: pointer;
     }
 
+  .mobile-nav-btns{
+    display: none;
+  }
+
 
   .nav-link:link,
   .nav-link:visited {
