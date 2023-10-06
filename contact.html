@@ -8,12 +8,10 @@
     <!-- Meta tags for search engines -->
     <meta
       name="description"
-      content="Welcome to EarthEcho Studio, where we capture the beauty of the world through stunning photography. Explore our portfolio of nature, landscape, and travel photos."
-    />
+      content="Welcome to EarthEcho Studio, where we capture the beauty of the world through stunning photography. Explore our portfolio of nature, landscape, and travel photos." />
     <meta
       name="keywords"
-      content="photography, EarthEcho Studio, nature photography, landscape photography, travel photography"
-    />
+      content="photography, EarthEcho Studio, nature photography, landscape photography, travel photography" />
     <meta name="author" content="Annika Börgesson" />
     <!-- Title -->
     <title>EarthEcho Studio</title>
@@ -22,147 +20,179 @@
     <link
       rel="apple-touch-icon"
       sizes="180x180"
-      href="assets/favicon/apple-touch-icon.png"
-    />
+      href="assets/favicon/apple-touch-icon.png" />
     <link
       rel="icon"
       type="image/png"
       sizes="32x32"
-      href="assets/favicon/favicon-32x32.png"
-    />
+      href="assets/favicon/favicon-32x32.png" />
     <link
       rel="icon"
       type="image/png"
       sizes="16x16"
-      href="assets/favicon/favicon-16x16.png"
-    />
+      href="assets/favicon/favicon-16x16.png" />
     <link rel="manifest" href="assets/favicon/site.webmanifest" />
 
     <!-- Stylesheet -->
     <link rel="stylesheet" href="assets/css/style.css" />
-    
   </head>
   <body>
     <!-- Header -->
-    <header class="header">
+    <header class="header open-nav">
       <h1 id="logo">EarthEcho Studios</h1>
-      <input type="checkbox" class="nav-checkbox" id="nav-checkbox" name="nav-checkbox" />
-    
-      <label for="nav-checkbox" class="label-mobile-nav"
-      > <i class="fa-solid fa-bars"></i>
-      </label>
-      
+      <input
+        type="checkbox"
+        class="mobile-nav-btns"
+        name="mobile-nav-btns"
+        id="mobile-nav-btns" />
+      <label for="mobile-nav-btns" class="mobile-nav-label"
+        ><i class="fa-solid fa-bars"></i
+      ></label>
       <nav class="main-nav">
         <ul class="nav-list">
-          <li><a class="nav-link" href="index.html">Home</a></li>
+          <li><a class="nav-link active-page" href="index.html">Home</a></li>
           <li><a class="nav-link" href="gallery.html">Gallery</a></li>
-          <li><a class="nav-link" href="products.html">Products</a></li>
-          <li><a class="nav-link active-page" href="contact.html">Contact</a></li>
+          <li>
+            <a class="nav-link" href="products.html">Products</a>
+          </li>
+          <li><a class="nav-link" href="contact.html">Contact</a></li>
         </ul>
       </nav>
-       
     </header>
 
     <!-- Main -->
     <main>
-     <section class="section-contact">
-       <div class="container-contact">
-        <div class="contact-text-box">
-          <h2 class="contact-h2">Get in touch with me</h2>
-          <p class="contact-text">I'd love to hear from you! Whether you have questions about my photography services, want to inquire about booking, or simply want to say hi, please feel free to reach out using the form. I will respond you message as soon as possible. Your moments matter, I'm here to capture them with you.</p>
-        </div>
-         <div class="contact-form-box">
-          <form action="https://formdump.codeinstitute.net" class="contact-form" method="POST" target="response-frame">
+      <section class="section-contact">
+        <div class="container-contact">
+          <div class="contact-text-box">
+            <h2 class="contact-h2">Get in touch with me</h2>
+            <p class="contact-text">
+              I'd love to hear from you! Whether you have questions about my
+              photography services, want to inquire about booking, or simply
+              want to say hi, please feel free to reach out using the form. I
+              will respond you message as soon as possible. Your moments matter,
+              I'm here to capture them with you.
+            </p>
+          </div>
+          <div class="contact-form-box">
+            <form
+              action="https://formdump.codeinstitute.net"
+              class="contact-form"
+              method="POST"
+              target="response-frame">
               <label for="fname" class="fname-label">First Name</label>
-              <input type="text" class="fname" name="fname" id="fname" placeholder="John" required>
-           
-              <label for="lname" class="lname-label">Last Name</label>
-              <input type="text" class="lname" name="lname" id="lname" placeholder="Smith" required>
-          
-              <label for="email" class="email-label-cont">Email Address</label>
-              <input type="email" class="email-cont" name="email-cont" id="email-cont" placeholder="me@example.com" required>
+              <input
+                type="text"
+                class="fname"
+                name="fname"
+                id="fname"
+                placeholder="John"
+                required />
 
-              <label for="textarea" class="textarea-label">What can I help you with?</label>
-              <textarea name="textarea" id="textarea" cols="30" rows="10" class="textarea" placeholder="Write a question or anything else you would like me to read."></textarea>
-            
+              <label for="lname" class="lname-label">Last Name</label>
+              <input
+                type="text"
+                class="lname"
+                name="lname"
+                id="lname"
+                placeholder="Smith"
+                required />
+
+              <label for="email" class="email-label-cont">Email Address</label>
+              <input
+                type="email"
+                class="email-cont"
+                name="email-cont"
+                id="email-cont"
+                placeholder="me@example.com"
+                required />
+
+              <label for="textarea" class="textarea-label"
+                >What can I help you with?</label
+              >
+              <textarea
+                name="textarea"
+                id="textarea"
+                cols="30"
+                rows="10"
+                class="textarea"
+                placeholder="Write a question or anything else you would like me to read."></textarea>
+
               <button class="btn-contact">Send</button>
             </form>
           </div>
         </div>
-     </section>
+      </section>
     </main>
 
-
-  <!-- Footer -->
-  <footer class="footer">
-    <div class="footer-div">
-      <div class="container grid grid--3-cols footer-section">
-        <div class="logo-adress">
-          <address class="address-section">
-            <p class="address">
-              Gothenburg Central Station <br />411 03 <br />Gothenburg
-            </p>
-          </address>
+    <!-- Footer -->
+    <footer class="footer">
+      <div class="footer-div">
+        <div class="container grid grid--3-cols footer-section">
+          <div class="logo-adress">
+            <address class="address-section">
+              <p class="address">
+                Gothenburg Central Station <br />411 03 <br />Gothenburg
+              </p>
+            </address>
+          </div>
+          <div class="social-links">
+            <ul class="ul-footer">
+              <li>
+                <a
+                  href="https://www.facebook.com"
+                  target="_blank"
+                  rel="noopener"
+                  aria-label="Visit us on our Facebook page ( link opens in a new tab)"></a
+                ><i class="fa-brands fa-facebook footer-link"></i>
+              </li>
+              <li>
+                <a
+                  href="https://www.instagram.com"
+                  target="_blank"
+                  rel="noopener"
+                  aria-label="Visit us on  our Instagram page ( link opens in a new tab)"></a
+                ><i
+                  class="fa-brands fa-instagram footer-link danie-franco-A6O7pgc7vHg-unsplash"></i>
+              </li>
+              <li>
+                <a
+                  href="https://www.twitter.com"
+                  target="_blank"
+                  rel="noopener"
+                  aria-label="Visit us on our Twitter page ( link opens in a new tab)"></a
+                ><i class="fa-brands fa-twitter footer-link"></i>
+              </li>
+            </ul>
+          </div>
+          <div class="subscribe">
+            <form
+              action="https://formdump.codeinstitute.net"
+              class="contact-form"
+              method="POST"
+              target="response-frame">
+              <label class="footer-label" for="email"
+                >Subscribe to my newsletter, to get the newest updates!</label
+              >
+              <input
+                type="email"
+                id="email"
+                name="email"
+                class="footer-email"
+                placeholder="Email Address" />
+              <button type="submit" class="btn-footer">Submit</button>
+            </form>
+          </div>
         </div>
-        <div class="social-links">
-          <ul class="ul-footer">
-            <li>
-              <a
-                href="https://www.facebook.com"
-                target="_blank"
-                rel="noopener"
-                aria-label="Visit us on our Facebook page ( link opens in a new tab)"
-              ></a
-              ><i class="fa-brands fa-facebook footer-link"></i>
-            </li>
-            <li>
-              <a
-                href="https://www.instagram.com"
-                target="_blank"
-                rel="noopener"
-                aria-label="Visit us on  our Instagram page ( link opens in a new tab)"
-              ></a
-              ><i
-                class="fa-brands fa-instagram footer-link danie-franco-A6O7pgc7vHg-unsplash"
-              ></i>
-            </li>
-            <li>
-              <a
-                href="https://www.twitter.com"
-                target="_blank"
-                rel="noopener"
-                aria-label="Visit us on our Twitter page ( link opens in a new tab)"
-              ></a
-              ><i class="fa-brands fa-twitter footer-link"></i>
-            </li>
-          </ul>
-        </div>
-        <div class="subscribe">
-          <form action="https://formdump.codeinstitute.net" class="contact-form" method="POST" target="response-frame">
-            <label class="footer-label" for="email"
-              >Subscribe to my newsletter, to get the newest updates!</label
-            >
-            <input
-              type="email"
-              id="email"
-              name="email"
-              class="footer-email"
-              placeholder="Email Address"
-            />
-            <button type="submit" class="btn-footer">Submit</button>
-          </form>
+        <div class="copyright">
+          <p>copyright &copf; 2023 by Annika Börgesson</p>
         </div>
       </div>
-      <div class="copyright">
-        <p>copyright &copf; 2023 by Annika Börgesson</p>
-      </div>
-    </div>
-   </footer>
+    </footer>
 
     <!-- FONT AWSOME SCRIPT -->
     <script
       src="https://kit.fontawesome.com/c7b8c33d12.js"
-      crossorigin="anonymous"
-    ></script>
+      crossorigin="anonymous"></script>
   </body>
 </html>
