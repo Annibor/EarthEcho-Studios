@@ -410,7 +410,6 @@ body {
   font-family: inherit;
   border: none;
   border-radius: 8px;
-  background-color: #fffdf0;
   box-shadow: 0.5px 2px 3px rgba(0, 0, 0, 0.2);
 }
 
@@ -649,15 +648,16 @@ body {
     padding: 5.6rem;
   }
 
-  .product-grid-box{
+  .product-grid-box {
     grid-template-columns: 1fr 1fr;
+    gap: 1.3rem;
   }
-  
+
   .section-contact {
     padding: 9.8rem;
   }
 
-  .btn-menu{
+  .btn-menu {
     grid-template-columns: 1fr 1fr;
   }
 
@@ -778,7 +778,8 @@ body {
   }
 
   .btn-footer,
-  .btn-contact, .btn-to-navigate {
+  .btn-contact,
+  .btn-to-navigate {
     padding: 2rem;
   }
 
@@ -800,11 +801,12 @@ body {
 
 @media (max-width: 34rem) {
   .grid {
-    column-gap: 3.2rem;
+    column-gap: 2.4rem;
     row-gap: 2.4rem;
   }
 
-  .grid--3-cols, .btn-menu {
+  .grid--3-cols,
+  .btn-menu {
     grid-template-columns: 1fr;
   }
 
