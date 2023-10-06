@@ -159,3 +159,9 @@ Future features for the webpage are:
 - Icons are taken from fontawsome.com
 - Favicons are from favicon.io
 
+## Credits
+
+- The website is loosley based on Jonas Schmedtmanns Omnifood Project. https://github.com/jonasschmedtmann/html-css-course/tree/master/final
+- The header and navbar is based on Omnifood project and Love Running project.
+- The Gallery pages images layout is copied from an amazing work https://codepen.io/GeorgePark/pen/vdqYom.  I changed the box- shadow, used imgages choosen for this website and choosen another gap. I choose to copy the most part of this layout because it where the absolutley best layout for the website. The original code is written with Css grid and with a fallback to flexbox, but I choose only to use the flexbox code for the website. 
+- 
