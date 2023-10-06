@@ -641,6 +641,14 @@ body {
   }
 
 
+  .nav-list {
+    display: flex;
+    list-style: none;
+    flex-direction: column;
+    margin-top: 12.8rem;
+    align-items: center;
+  }
+
   #mobile-nav-btns:checked ~ .main-nav{
     display: block;    
   } 
@@ -651,13 +659,6 @@ body {
     cursor: pointer;
     }
 
-  .nav-list {
-    display: flex;
-    list-style: none;
-    flex-direction: column;
-    margin-top: 12.8rem;
-    align-items: center;
-  }
 
   .nav-link:link,
   .nav-link:visited {
