@@ -649,6 +649,10 @@ body {
     padding: 5.6rem;
   }
 
+  .product-grid-box{
+    grid-template-columns: 1fr 1fr;
+  }
+  
   .section-contact {
     padding: 9.8rem;
   }
