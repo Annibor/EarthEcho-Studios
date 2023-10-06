@@ -158,17 +158,6 @@ body {
 /* -- MOBILE NAV -- */
 /* --------------------*/
 
-.mobile-nav-label, .mobile-nav-btns{
-  cursor: pointer;
-  display: none;
-  }
-
-.fa-bars{
-  font-size: 3.2rem;
-  color: #FFFDF0;
-
-}
-
 
 /* --------------------*/
 /* -- INDEX.HTML -- */
@@ -580,7 +569,7 @@ body {
     padding: 0;
   }
 
-  #logo, .mobile-nav-btns, .mobile-nav-label{
+  #logo, .fa-bars{
     padding: 3rem;
   }
 
@@ -674,6 +663,13 @@ body {
     flex-direction: row;
     justify-content: space-between;
   }
+
+
+.fa-bars{
+  font-size: 3.2rem;
+  color: #FFFDF0;
+}
+
 }
 
 /* --------------------*/
