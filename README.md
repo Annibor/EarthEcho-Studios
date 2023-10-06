@@ -125,4 +125,7 @@ As the website and business owner I want to
 - W3c hmtl  validator
 - W3c css validator (jigsaw)
 
+## Deployment
+
+
 
