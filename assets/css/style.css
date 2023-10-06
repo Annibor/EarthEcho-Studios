@@ -654,7 +654,8 @@ body {
   } 
 
   .mobile-nav-label {
-    display: block;
+    font-size: 3.2rem;
+    color: #FFFDF0;
     z-index: 999;
     cursor: pointer;
     }
