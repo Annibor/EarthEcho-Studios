@@ -147,4 +147,7 @@ Future features for the webpage are:
 - I used Visual Studio Code to write the code.
 - I used Git to load and push my code to Github.
 - I've used Squoosh.app to compromize all images.
-- I've used preinstalled app in
+- I've used preinstalled app called "Prevew" to edit the sizes of the photos.
+- I've used Coolors.co to find a color palette for the website.
+- I've also used Coolors.co to contrast check text colors and background colors.
+- I've used maketintsandshades.com to find evetuals tints and shadow colors as a complement for the color palette.
