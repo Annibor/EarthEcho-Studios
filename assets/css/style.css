@@ -416,11 +416,12 @@ body {
 
 .btn-menu {
   grid-template-columns: 1fr 1fr 1fr 1fr;
-  padding: 1.8rem;
+  padding: 3.8rem;
   font-size: 1.8rem;
-  margin: 2rem;
+  margin: 0 auto;
   border: none;
   font-family: "Montserrat", sans-serif;
+  cursor: pointer;
 }
 
 .btn-to-navigate {
@@ -433,6 +434,7 @@ body {
   background-color: #4b2b0f;
   color: #fffdf0;
   font-weight: 500;
+ 
 }
 
 /* --------------------*/
