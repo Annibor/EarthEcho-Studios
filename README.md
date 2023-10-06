@@ -153,4 +153,8 @@ Future features for the webpage are:
 - I've used maketintsandshades.com to find evetuals tints and shadow colors as a complement for the color palette.
 - I've used Balsamiq when I made the wireframes for the website.
 
-##
+## Media
+
+- All images are taken from unsplash.com
+- Icons are taken from fontawsome.com
+- Favicons are from favicon.io
