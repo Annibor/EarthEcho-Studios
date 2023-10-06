@@ -653,6 +653,10 @@ body {
     padding: 9.8rem;
   }
 
+  .btn-menu{
+    grid-template-columns: 1fr 1fr;
+  }
+
   .footer {
     padding: 3rem 3rem 0 3rem;
     height: 30rem;
@@ -770,7 +774,7 @@ body {
   }
 
   .btn-footer,
-  .btn-contact {
+  .btn-contact, .btn-to-navigate {
     padding: 2rem;
   }
 
@@ -796,7 +800,7 @@ body {
     row-gap: 2.4rem;
   }
 
-  .grid--3-cols {
+  .grid--3-cols, .btn-menu {
     grid-template-columns: 1fr;
   }
 
