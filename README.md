@@ -161,7 +161,17 @@ Future features for the webpage are:
 
 ## Credits
 
+### Content
+
 - The website is loosley based on Jonas Schmedtmanns Omnifood Project. https://github.com/jonasschmedtmann/html-css-course/tree/master/final
 - The header and navbar is based on Omnifood project and Love Running project.
-- The Gallery pages images layout is copied from an amazing work https://codepen.io/GeorgePark/pen/vdqYom.  I changed the box- shadow, used imgages choosen for this website and choosen another gap. I choose to copy the most part of this layout because it where the absolutley best layout for the website. The original code is written with Css grid and with a fallback to flexbox, but I choose only to use the flexbox code for the website. 
-- 
+- The Gallery pages images layout is copied from an amazing work by George W. Park https://codepen.io/GeorgePark/pen/vdqYom. I changed the box- shadow, used imgages choosen for this website and choosen another gap. I choose to copy the most part of this layout because it where the absolutley best layout for the website. The original code is written with Css grid and with a fallback to flexbox, but I choose only to use the flexbox code for the website.
+- This README is based on a README written by David Calikes https://github.com/davidcalikes/portfolio-project-one#readme.
+
+### Thanks
+
+- Michel
+  I am very greatful for my boyfriend support while I've been working on this project.
+
+- Pierre Nilsson: Code Institute Student
+  Pierre have been able to disguss the project, code and have been a good support during the whole project.
