@@ -133,10 +133,8 @@ Future features for the webpage are:
 
 - This README is based on a README created by Davis Calikes, available at [GitHub](https://github.com/davidcalikes/portfolio-project-one#readme).
 
-### Thanks
+### Special Thanks
 
-- Michel
-  I am very greatful for my boyfriend support while I've been working on this project.
+- **Michel**: A heartfelt thank you to my amazing boyfriend for unwavering support throughout the wholr project.
 
-- Pierre Nilsson: Code Institute Student
-  Pierre have been able to disguss the project, code and have been a good support during the whole project.
+- **Pierre: Code Institute Student**:Pierre have been an invauable collaborator, offering discussions on project-related topics as well as discussions about code in general.
