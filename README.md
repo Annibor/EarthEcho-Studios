@@ -4,10 +4,9 @@
 
 # Introduction
 
-Welcome to EarthEcho Studios! I'm thrilled to have you here and share a glimpse of Sophies world of visual storytelling through photography. Sophie is an amazing photographer specializing in weddings, portraits, product photograpy.  This webpage is for anyone that want to catch a special moment or wanting tp get high-quality photos of their own products and stores. 
-This is a fictional company and a made up character for this educational project. 
+Welcome to EarthEcho Studios! I'm thrilled to have you here and share a glimpse of Sophies world of visual storytelling through photography. Sophie is an amazing photographer specializing in weddings, portraits, product photograpy. This webpage is for anyone that want to catch a special moment or wanting tp get high-quality photos of their own products and stores.
+This is a fictional company and a made up character for this educational project.
 This README serves as your guide to navigate through the building of this website.
-
 
 <!-- Screenshot of how website looks on different screens. -->
 
@@ -78,58 +77,67 @@ As the website and business owner I want to
 <!-- Needs edit-->
 
 ## Existing Features
+
 ### Header
- - All the pages on this website have a responvie nabar, that collapse into a "burger" drop-down menu, if the website is shown ni a screen below 944px.
- - The navbaar includes links to each page.
- - For better user experince, the active page is shown with uppercase letters, so it will be easy for the user to navigate troguh the page.
 
- ### Footer
- -All pages have a responsive footer at the bottom of the page. 
- - The footer includes:
- - An address to the company
- - Links to social medias like Facebook, Instagram and Twitter. 
- - A textbox where the user can signup for the newsletter, where tips and tricks will be shared, and limited time-offers for the products.
- - The last thing in the footer is the copyright.
+- All the pages on this website have a responvie nabar, that collapse into a "burger" drop-down menu, if the website is shown ni a screen below 944px.
+- The navbaar includes links to each page.
+- For better user experince, the active page is shown with uppercase letters, so it will be easy for the user to navigate troguh the page.
 
- ## Home Page
+### Footer
 
- ### Hero
- - The hero is devided into on picture of Sophie, the photographer and owner of the company.
- - The other half is a breif introduction of the heart and content of the website, to make it clear for he users what they can expect. This also provides the uswr with a feelign of what kind of photographer Sophie is, so they can decisde wwther she is the right photographer for them.
- 
- ### Gallery Section 
- - This sections pourpose is to give a hint of what kind of photos Sophie takes. 
- 
- ### Gallery Page
- - This pages pourpose is to give the user a deep understanding of Sophies uniqe style of photography ,and there is a deep shadow beside every image, to make them really pop out from the crisp white background. The layout of the images is fully responsive.
+-All pages have a responsive footer at the bottom of the page.
 
- ### Product Page
- - The images and descriptions for each picture have a deep shadow to make sure that they are the focus on the page.
+- The footer includes:
+- An address to the company
+- Links to social medias like Facebook, Instagram and Twitter.
+- A textbox where the user can signup for the newsletter, where tips and tricks will be shared, and limited time-offers for the products.
+- The last thing in the footer is the copyright.
 
- ### Contact Page 
- - The contact page is made out of a form and a textbox. These elements have a background color to make sure they are in focus for the user. The form is fully responsive to make the best possible user experience, like a large buttons once reached mobile size, to make it easier to click on the button. 
+## Home Page
 
- ## Future Features
- Future features for the webpage are:
- - A direct link to the contact me page from the home page.
- - Smooth scrolling, to improve user experience. 
- - A button/function tha users can click if they are at the bottom of each page, that takes them directly to the top of the page. 
- - A more indept, devided gallery. For example a link to a gallery for every catagrory of photography Sophie offers. 
- - A carousel of reviews from former costumers, to make the users trust the product Sophie offers on her webpage. 
- - The form could be given more catagories, like buttons for different kind of photoshoots the user is intrested in.
+### Hero
+
+- The hero is devided into on picture of Sophie, the photographer and owner of the company.
+- The other half is a breif introduction of the heart and content of the website, to make it clear for he users what they can expect. This also provides the uswr with a feelign of what kind of photographer Sophie is, so they can decisde wwther she is the right photographer for them.
+
+### Gallery Section
+
+- This sections pourpose is to give a hint of what kind of photos Sophie takes.
+
+### Gallery Page
+
+- This pages pourpose is to give the user a deep understanding of Sophies uniqe style of photography ,and there is a deep shadow beside every image, to make them really pop out from the crisp white background. The layout of the images is fully responsive.
+
+### Product Page
+
+- The images and descriptions for each picture have a deep shadow to make sure that they are the focus on the page.
+
+### Contact Page
+
+- The contact page is made out of a form and a textbox. These elements have a background color to make sure they are in focus for the user. The form is fully responsive to make the best possible user experience, like a large buttons once reached mobile size, to make it easier to click on the button.
+
+## Future Features
+
+Future features for the webpage are:
+
+- A direct link to the contact me page from the home page.
+- Smooth scrolling, to improve user experience.
+- A button/function tha users can click if they are at the bottom of each page, that takes them directly to the top of the page.
+- A more indept, devided gallery. For example a link to a gallery for every catagrory of photography Sophie offers.
+- A carousel of reviews from former costumers, to make the users trust the product Sophie offers on her webpage.
+- The form could be given more catagories, like buttons for different kind of photoshoots the user is intrested in.
 
 ## Testing
-- Throughout the whole development of the webpage, I've made tests in: 
-- Dev-tools 
-- Lighthouse 
-- W3c hmtl  validator
+
+- Throughout the whole development of the webpage, I've made tests in:
+- Dev-tools
+- Lighthouse
+- W3c hmtl validator
 - W3c css validator (jigsaw)
 
 ## Deployment
 
-
 ## Languages
+
 - This website was bulit using HTML and CSS.
-
-## 
-

@@ -154,7 +154,7 @@ body {
   transform: scale(1.2);
 }
 
-.mobile-nav-btns{
+#mobile-nav-btns, .mobile-nav-label{
   display: none;
 }
 
@@ -638,14 +638,15 @@ body {
   }
 
  
-  .fa-bars {
+  .mobile-nav-label {
     font-size: 3.2rem;
     color: #FFFDF0;
     z-index: 999;
     cursor: pointer;
+    display: block;
     }
 
-  .mobile-nav-btns{
+  #mobile-nav-btns{
     display: none;
   }
 
