@@ -141,3 +141,10 @@ Future features for the webpage are:
 ## Languages
 
 - This website was bulit using HTML and CSS.
+
+## Software
+
+- I used Visual Studio Code to write the code.
+- I used Git to load and push my code to Github.
+- I've used Squoosh.app to compromize all images.
+- I've used preinstalled app in
