@@ -59,52 +59,25 @@ New users landing on ErathEcho Studios website aimed to:
 - Learn about tje different products offered.
 - View a gallery/portpholio of Sophies photoshoots.
 
-## Design of the website
+### Design Philosophy/ Features
 
-<!-- Needs edit-->
+The design of EarthEcho Studios website have been carefully thought out to create a user-friendly and an engaging expreience, Key design elements and principles include:
 
-## Existing Features
+- **Header**: A responsive navigation bar, that adapts to different screens sizes, ensuring easy access to all pages. The navbar collapse into a dropdown menu, when a certain sreen size is used, and the navbar is then reached by the classic burger icon.
 
-### Header
+- **Footer**: A responsive footer that contains an address to the business, social media links, a newsletter sign-up option and copyright details.
 
-- All the pages on this website have a responvie nabar, that collapse into a "burger" drop-down menu, if the website is shown ni a screen below 944px.
-- The navbaar includes links to each page.
-- For better user experince, the active page is shown with uppercase letters, so it will be easy for the user to navigate troguh the page.
+- **Hero**: A visuallu appealing introduction featuring a picture of Sophie and brief overwies of the websites content and a brief introduction of Sophie.
 
-### Footer
+- **Gallery Section**: This section is dedicated to showcasing a glimpse of Sophies photographies.
 
--All pages have a responsive footer at the bottom of the page.
+- **Gallery Page**: A presentation to the gallery section and high-quality images from former photoshoots, to give a deepdive into Sophies photography style, with a focus on image presentation and responsiveness.
 
-- The footer includes:
-- An address to the company
-- Links to social medias like Facebook, Instagram and Twitter.
-- A textbox where the user can signup for the newsletter, where tips and tricks will be shared, and limited time-offers for the products.
-- The last thing in the footer is the copyright.
+- **Product Page**: A detailed description of the different kinds of photography Sophie does, and a high-quality image to each category.
 
-## Home Page
+- **Contact Page**: A user-friendly contact form and a textbox with a minimal but jet intresting layout to capture the users attention.
 
-### Hero
-
-- The hero is devided into on picture of Sophie, the photographer and owner of the company.
-- The other half is a breif introduction of the heart and content of the website, to make it clear for he users what they can expect. This also provides the uswr with a feelign of what kind of photographer Sophie is, so they can decisde wwther she is the right photographer for them.
-
-### Gallery Section
-
-- This sections pourpose is to give a hint of what kind of photos Sophie takes.
-
-### Gallery Page
-
-- This pages pourpose is to give the user a deep understanding of Sophies uniqe style of photography ,and there is a deep shadow beside every image, to make them really pop out from the crisp white background. The layout of the images is fully responsive.
-
-### Product Page
-
-- The images and descriptions for each picture have a deep shadow to make sure that they are the focus on the page.
-
-### Contact Page
-
-- The contact page is made out of a form and a textbox. These elements have a background color to make sure they are in focus for the user. The form is fully responsive to make the best possible user experience, like a large buttons once reached mobile size, to make it easier to click on the button.
-
-## Future Features
+### Future Features
 
 Future features for the webpage are:
 
