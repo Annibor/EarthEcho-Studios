@@ -151,3 +151,6 @@ Future features for the webpage are:
 - I've used Coolors.co to find a color palette for the website.
 - I've also used Coolors.co to contrast check text colors and background colors.
 - I've used maketintsandshades.com to find evetuals tints and shadow colors as a complement for the color palette.
+- I've used Balsamiq when I made the wireframes for the website.
+
+##
