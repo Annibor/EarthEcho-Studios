@@ -154,10 +154,9 @@ body {
   transform: scale(1.2);
 }
 
-/* --------------------*/
-/* -- MOBILE NAV -- */
-/* --------------------*/
-
+.mobile-nav-btns{
+  display: none;
+}
 
 /* --------------------*/
 /* -- INDEX.HTML -- */
@@ -639,7 +638,7 @@ body {
   }
 
  
-  .mobile-nav-label {
+  .fa-bars {
     font-size: 3.2rem;
     color: #FFFDF0;
     z-index: 999;
@@ -663,12 +662,6 @@ body {
     flex-direction: row;
     justify-content: space-between;
   }
-
-
-.fa-bars{
-  font-size: 3.2rem;
-  color: #FFFDF0;
-}
 
 }
 
