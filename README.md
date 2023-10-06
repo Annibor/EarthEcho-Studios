@@ -18,12 +18,19 @@ This README serves as your guide to navigate through the building of this websit
 
 <!-- Needs edit-->
 
-Sophies goal with the website is for her future and already established costumers, to be able to see what they can expect from her as a photographer and also how they book her for photoshoots.
+In the process of creating EarthEcho Studios, I followed a plan that revolved around Sophie's vision for her photography business. The development of the website had the following goals to aim for:
 
-- to deliver clear and easy to read information about her products.
-- to encourage customers to book her for their magical day, for taking photos for other companies websites and products.
-- to provide background information about who Sophie is and why the costumers ahould choose her.
-- the pictures need to be of high quality for a good user experience and also because they arethe products Sophie is offering from her website.
+### Project Goals
+
+1. **Online Presence**: To establish an online presence for Sophie's business EarthEcho Studio. This to reach a larger audince and a way for Sophie to show her work to the world.
+
+2. **Costumer Base**: Making it easier for potential clients to find ans connect with Sophie and therfore growing her local costumer base.
+
+3. **Booking Platform**: Making a way for costumers to cotact and book a photoshoot with Sophie, based on thir own preferenses.
+
+4. **Costumer Interaction**: Offer a clear and accessible contact information for the costumers.
+
+5. **Information Accessibility**: Make sure both new as well as existing costumers easily can access relevant informatino about EarthEcho Studios and the services Sophie have.
 
 ## User Goals
 
