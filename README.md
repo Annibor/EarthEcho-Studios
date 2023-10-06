@@ -123,10 +123,15 @@ Future features for the webpage are:
 
 ### Content
 
-- The website is loosley based on Jonas Schmedtmanns Omnifood Project. https://github.com/jonasschmedtmann/html-css-course/tree/master/final
-- The header and navbar is based on Omnifood project and Love Running project.
-- The Gallery pages images layout is copied from an amazing work by George W. Park https://codepen.io/GeorgePark/pen/vdqYom. I changed the box- shadow, used imgages choosen for this website and choosen another gap. I choose to copy the most part of this layout because it where the absolutley best layout for the website. The original code is written with Css grid and with a fallback to flexbox, but I choose only to use the flexbox code for the website.
-- This README is based on a README written by David Calikes https://github.com/davidcalikes/portfolio-project-one#readme.
+- The EarthEcho Studios website draws inspiratind fron Jonas Schmedtmann's Omnifood Project, available at [GitHub](https://github.com/jonasschmedtmann/html-css-course/tree/master/final).
+
+- The header and navbar design were influenced by the Omnifood Project ans Love Running Project available at [Github](https://github.com/Code-Institute-Solutions/love-running-v3/tree/main).
+
+- The layout for the gallery page is inspired by the exceptional work of George W. Park, available at [CodePen](https://codepen.io/GeorgePark/pen/vdqYom). I made costumizations for the layout. For example adjusting the box-shadow, the gap, and choosen specific images for this website. I opted to use the flex-box code from the original design. I choose to do like this because it was the best design for the specific page of the website.
+
+- The layout for images and the text to each image on the Product page are inspired by the work of George W. Park, available at [CodePen](https://codepen.io/GeorgePark/pen/vdqYom). I made the privious mentioned costumizations for the layout on this page, but also including the text boxexsunder each images. The box-shadow then lays under the image and the text-box like it is one component. I opted to use the flex-box code from the original design.
+
+- This README is based on a README created by Davis Calikes, available at [GitHub](https://github.com/davidcalikes/portfolio-project-one#readme).
 
 ### Thanks
 
