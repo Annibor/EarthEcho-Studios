@@ -228,7 +228,7 @@ body {
   flex-direction: column;
 }
 
-.index-allery-row {
+.index-gallery-row {
   display: flex;
   justify-content: space-between;
   margin-bottom: 0;
