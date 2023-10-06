@@ -81,12 +81,12 @@ The design of EarthEcho Studios website have been carefully thought out to creat
 
 Future features for the webpage are:
 
-- A direct link to the contact me page from the home page.
+- A direct link to the contact me page from the home page for quicker inquiries.
 - Smooth scrolling, to improve user experience.
-- A button/function tha users can click if they are at the bottom of each page, that takes them directly to the top of the page.
-- A more indept, devided gallery. For example a link to a gallery for every catagrory of photography Sophie offers.
-- A carousel of reviews from former costumers, to make the users trust the product Sophie offers on her webpage.
-- The form could be given more catagories, like buttons for different kind of photoshoots the user is intrested in.
+- Integration of a "Back to Top" button for convenient navigation.
+- ACatagorixation of the gaööery into different photography catagories.
+- A carousel of reviews from former costumers, to build trust.
+- Expansion of the contact form witg optiions for different types of photoshoots.
 
 ## Testing
 
