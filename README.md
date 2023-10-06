@@ -32,52 +32,32 @@ In the process of creating EarthEcho Studios, I followed a plan that revolved ar
 
 5. **Information Accessibility**: Make sure both new as well as existing costumers easily can access relevant informatino about EarthEcho Studios and the services Sophie have.
 
-## User Goals
+### User-Centered Approach
 
-<!-- Needs edit-->
+#### As a buinsess Owner
 
-As a user I want to
+Sophie, as the owner of EarthEcho Studios ans the website, she had the following objectives:
 
-- be able to navigate easly throughout the whole webpage.
-- it should be easy to navigate and go back and fourth between homepage and the other pages.
-- To retur to the homepage should only be one klick away.
-- easily return to the navigation menu at the top of the page from the bottom of the page
-- The website should be responsive, and therefore look well on all devises, from mobile to desktops.
-- the images should be high of qality because the pictures are the product.
+- To create an online presence to be able to promote her photography and her business.
+- Expand the costumer base by showcasing her work online.
+- Being able to provide a clear easly fond contact option for costumers for booking or asking questions.
+- Have correct and easily understandable information for her costumers as well as for potential costumers.
 
-## User Stories
+#### As a General user/costumer
 
-<!-- Needs edit-->
+Users and potential costumers visiting EarthEcho Studios wanted to:
 
-### As a business owner
+- Get to know the photographer Sophie, to be able to figure out if she's the right fit for them.
+- Find contact information and being able to get in contact with Sophie.
+- Being able to see a gallery/portpholio as well as informatino about the different kinds of photoshoots Sophie offers.
 
-<!-- Needs edit-->
+#### As a New User
 
-As the website and business owner I want to
+New users landing on ErathEcho Studios website aimed to:
 
-- create an online presence for our business
-- grow our local customer base
-- to provide a contact for customers to order photoshoots from Sophie
-- make it easy for costumer to ask questions
-- provide easy understood information for new costumers as well as already existing.
-
-### As a general user of the website/customer I want to
-
-<!-- Needs edit-->
-
-- find out the contact information
-- being able to make a order of a photoshoot
-- get to know the photographer, so I know if this is someone I would like to hire or not.
-- view all the products
-- find relevant information of every product, in this case all the kinds of photoshoots.
-
-### As a new user I want to
-
-<!-- Needs edit-->
-
-- find information about the photographer.
-- find information about the products.
-- see cases from former costumers so I know if this photographer is what I'm looking for or not.
+- Discover information about the photographer, Sophie.
+- Learn about tje different products offered.
+- View a gallery/portpholio of Sophies photoshoots.
 
 ## Design of the website
 
