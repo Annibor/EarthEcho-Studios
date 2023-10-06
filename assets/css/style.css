@@ -649,10 +649,7 @@ body {
     align-items: center;
   }
 
-  #mobile-nav-btns:checked ~ .main-nav{
-    display: block;    
-  } 
-
+ 
   .mobile-nav-label {
     font-size: 3.2rem;
     color: #FFFDF0;
@@ -663,6 +660,11 @@ body {
   .mobile-nav-btns{
     display: none;
   }
+
+  #mobile-nav-btns:checked ~ .main-nav{
+    display: block;    
+  } 
+
 
 
   .nav-link:link,
