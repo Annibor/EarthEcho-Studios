@@ -218,38 +218,38 @@ body {
 /* -- HTML GALLERY SECTION -- */
 /* ---------------------------*/
 
-.gallery-section {
+.index-gallery-section {
   padding: 12.8rem 0;
   background-color: #96561e;
 }
 
-.gallery-container {
+.index-gallery-container {
   display: flex;
   flex-direction: column;
 }
 
-.gallery-row {
+.index-allery-row {
   display: flex;
   justify-content: space-between;
   margin-bottom: 0;
 }
 
-.gallery-item {
+.index-gallery-item {
   flex-grow: 1;
   overflow: hidden;
 }
 
-.gallery-item-1,
-.gallery-item-4 {
+.index-gallery-item-1,
+.index-gallery-item-4 {
   flex-basis: 30%;
 }
 
-.gallery-item-2,
-.gallery-item-3 {
+.index-gallery-item-2,
+.index-gallery-item-3 {
   flex-basis: 60%;
 }
 
-.html-gallery-img {
+.index-gallery-img {
   width: 100%;
   height: 100%;
   object-fit: cover;
