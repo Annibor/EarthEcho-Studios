@@ -121,6 +121,9 @@ body {
   position: relative;
   height: 15rem;
   padding: 3rem 4.8rem;
+  position: fixed;
+  width: 100%;
+  box-shadow: 0rem 0.6rem 0.6rem rgba(0, 0, 0, 0.4);
 }
 
 #logo {
@@ -181,7 +184,8 @@ body {
 /* -- Based on Omnifood Project, link in README -- */
 
 .section-hero {
-  padding: 9.6rem;
+  padding: 25rem 9.6rem 9.6rem 9.6rem;
+
 }
 
 .hero {
@@ -259,6 +263,9 @@ body {
 /* -- GALLERY.HTML -- */
 /* --------------------*/
 
+.section-products{
+  padding-top: 15rem;
+}
 .text-box {
   display: flex;
   flex-direction: column;
@@ -347,7 +354,7 @@ body {
 /* -- Based on Omnifood Project, link in README -- */
 
 .section-contact {
-  padding: 12.8rem;
+  padding:23rem 8rem 8rem 8rem;
 }
 
 .container-contact {
@@ -501,7 +508,7 @@ body {
   gap: 3rem;
 }
 
-.footer-link i{
+.footer-link i {
   font-size: 2.8rem;
   color: #fffdf0;
 }
@@ -606,6 +613,7 @@ body {
   .textarea {
     font-size: 1.6rem;
   }
+
 }
 
 /* ----------------------------*/
@@ -651,10 +659,6 @@ body {
   .product-grid-box {
     grid-template-columns: 1fr 1fr;
     gap: 1.3rem;
-  }
-
-  .section-contact {
-    padding: 9.8rem;
   }
 
   .btn-menu {
@@ -740,10 +744,6 @@ body {
     font-size: 2rem;
   }
 
-  .container-gallery-products {
-    margin: 2rem;
-  }
-
   .gallery-h2,
   .contact-h2 {
     font-size: 3.6rem;
@@ -810,6 +810,10 @@ body {
     grid-template-columns: 1fr;
   }
 
+  .header{
+    height: 10rem;
+  }
+
   #logo {
     font-weight: 500;
     font-size: 2.8rem;
@@ -848,10 +852,15 @@ body {
 
   .gallery-text {
     font-size: 1.8rem;
+    line-height: 2rem;
+  }
+
+  .section-products{
+    padding-top:10rem ;
   }
 
   .section-contact {
-    padding: 2.4rem;
+    padding: 12.4rem 2.4rem 2.4rem 2.4rem;
   }
   .container-contact {
     padding: 2.4rem;
