@@ -222,7 +222,7 @@ body {
 /* ---------------------------*/
 
 .index-gallery-section {
-  padding: 12.8rem 0;
+  padding: 9.6rem 0;
   background-color: #96561e;
 }
 
@@ -684,7 +684,7 @@ body {
   /* -- Based on Omnifood Project and Love Runnig, link in README -- */
 
   .main-nav {
-    background: rgba(148, 155, 140, 0.85);
+    background: rgba(148, 155, 140, 0.94);
     position: absolute;
     top: 0;
     bottom: 0;
