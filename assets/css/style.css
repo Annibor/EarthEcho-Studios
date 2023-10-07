@@ -185,7 +185,6 @@ body {
 
 .section-hero {
   padding: 25rem 9.6rem 9.6rem 9.6rem;
-
 }
 
 .hero {
@@ -263,7 +262,7 @@ body {
 /* -- GALLERY.HTML -- */
 /* --------------------*/
 
-.section-products{
+.section-products {
   padding-top: 15rem;
 }
 .text-box {
@@ -354,7 +353,7 @@ body {
 /* -- Based on Omnifood Project, link in README -- */
 
 .section-contact {
-  padding:23rem 8rem 8rem 8rem;
+  padding: 23rem 8rem 8rem 8rem;
 }
 
 .container-contact {
@@ -613,7 +612,6 @@ body {
   .textarea {
     font-size: 1.6rem;
   }
-
 }
 
 /* ----------------------------*/
@@ -810,7 +808,7 @@ body {
     grid-template-columns: 1fr;
   }
 
-  .header{
+  .header {
     height: 10rem;
   }
 
@@ -825,6 +823,7 @@ body {
   }
 
   .hero {
+    padding-top: 10rem;
     gap: 2rem;
   }
 
@@ -855,8 +854,8 @@ body {
     line-height: 2rem;
   }
 
-  .section-products{
-    padding-top:10rem ;
+  .section-products {
+    padding-top: 10rem;
   }
 
   .section-contact {
