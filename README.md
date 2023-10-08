@@ -102,10 +102,11 @@ Future features for the webpage are:
 
 I deployed early to ba able to test the website deployed during the development. Following step are a description of how to deploy a webpage on GitHub:
 
-1. Open the repository and find the Settings tab.
+1. Open the [repository](https://github.com/Annibor/EarthEcho-Studios) and find the Settings tab.
 2. The navigate to the tab called Pages on the left.
 3. Choose to Deploy from a branch. For me it was the main branch.
-4. Save it. It can take a few minutes, but then you will be able to find the link to the deployed website in the repository on the menu to the right, under Enviroments.
+4. Save it. It can take a few minutes, but then you will be able to find the link to the deployed website in the repository on the menu to the right, under [Deplyments](https://github.com/Annibor/EarthEcho-Studios/deployments).
+5. There you'll find the daployes website no top of the page under the heading Active deployments.
 
 My link is: [EartEcho Studios](https://annibor.github.io/EarthEcho-Studios/)
 
