@@ -65,6 +65,8 @@ The design of EarthEcho Studios website have been carefully thought out to creat
 
 - **Header**: A responsive navigation bar, that adapts to different screens sizes, ensuring easy access to all pages. The navbar collapse into a dropdown menu, when a certain sreen size is used, and the navbar is then reached by the classic burger icon.
 
+- **Navigation Buttons**: A responsive section of links to all pages of the website. As it is localised just above the footer, it also have a button "Back to top" so users don't have to scroll to the top of each page.
+
 - **Footer**: A responsive footer that contains an address to the business, social media links, a newsletter sign-up option and copyright details.
 
 - **Hero**: A visuallu appealing introduction featuring a picture of Sophie and brief overwies of the websites content and a brief introduction of Sophie.
@@ -97,6 +99,15 @@ Future features for the webpage are:
 - W3c css validator (jigsaw)
 
 ## Deployment
+
+I deployed early to ba able to test the website deployed during the development. Following step are a description of how to deploy a webpage on GitHub:
+
+1. Open the repository and find the Settings tab.
+2. The navigate to the tab called Pages on the left.
+3. Choose to Deploy from a branch. For me it was the main branch.
+4. Save it. It can take a few minutes, but then you will be able to find the link to the deployed website in the repository on the menu to the right, under Enviroments.
+
+My link is: [EartEcho Studios](https://annibor.github.io/EarthEcho-Studios/)
 
 ## Languages
 
