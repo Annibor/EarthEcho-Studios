@@ -59,6 +59,40 @@ New users landing on ErathEcho Studios website aimed to:
 - Learn about tje different products offered.
 - View a gallery/portpholio of Sophies photoshoots.
 
+### Wireframes
+
+I created my wireframes for the website by using [Balsamiq](https://balsamiq.com/). I created one wireframe for mobile, tablet and desktop on each page of the website.
+
+#### **Home page**
+
+[Wireframes for mobile, tablet and desktop]()
+
+#### **Gallery page**
+
+[Wireframes for mobile, tablet and desktop]()
+
+#### **Product page**
+
+[Wireframes for mobile, tablet and desktop]()
+
+#### **Contact page**
+
+[Wireframes for mobile, tablet and desktop]()
+
+### Colors
+
+I used [Coolors](https://coolors.co/) for making a color palette for the website.
+
+- [Color palette]()
+
+I then used [Tint and Shades](https://maketintsandshades.com/#283618) to find different tints and shades of the colors from the original color palette.
+
+- [Tints and Shades]()
+
+I used [Color Contrast Shecker](https://coolors.co/contrast-checker/112a46-acc8e5) to make sure I used colors that had good contrast to eachother.
+
+- [Color Contrast]()
+
 ### Design Philosophy/ Features
 
 The design of EarthEcho Studios website have been carefully thought out to create a user-friendly and an engaging expreience, Key design elements and principles include:
