@@ -8,7 +8,7 @@ Welcome to EarthEcho Studios! I'm thrilled to have you here and share a glimpse 
 This is a fictional company and a made up character for this educational project.
 This README serves as your guide to navigate through the building of this website.
 
-<!-- Screenshot of how website looks on different screens. -->
+![Am I Responsive Screenshot](docs/screenshots/am-i-responsive.png)
 
 ## Table of Content
 
@@ -25,8 +25,7 @@ This README serves as your guide to navigate through the building of this websit
       - [**Gallery Page**](#gallery-page)
       - [**Product Page**](#product-page)
       - [**Contact Page**](#contact-page)
-    - [**Colors**](#colors)
-    -[**Design Philosophy/ Features**](#design-philosophy-features)
+    - [**Colors**](#colors) -[**Design Philosophy/ Features**](#design-philosophy-features)
   - [**Testing**](#testing)
   - [**Deployment**](#deployment)
   - [**Languages**](#languages)
@@ -86,19 +85,27 @@ I created my wireframes for the website by using [Balsamiq](https://balsamiq.com
 
 #### **Home page**
 
-[Wireframes for mobile, tablet and desktop]()
+- [Wireframes for mobile](docs/wireframes/wireframe-mobile-home.png)
+- [Wireframes for tablet](docs/wireframes/wireframe-tablet-home.png)
+- [Wireframes for desktop](docs/wireframes/wireframe-desktop-home.png)
 
 #### **Gallery page**
 
-[Wireframes for mobile, tablet and desktop]()
+- [Wireframes for mobile](docs/wireframes/wireframe-gallery-mobile.png)
+- [Wireframes for tablet](docs/wireframes/wireframe-gallery-tablet.png)
+- [Wireframes for desktop](docs/wireframes/wireframe-desktop-gallery.png)
 
 #### **Product page**
 
-[Wireframes for mobile, tablet and desktop]()
+- [Wireframes for mobile](docs/wireframes/wireframe-product-mobile.png)
+- [Wireframes for tablet](docs/wireframes/wireframe-tablet-product.png)
+- [Wireframes for desktop](docs/wireframes/wireframe-desktop-product.png)
 
 #### **Contact page**
 
-[Wireframes for mobile, tablet and desktop]()
+- [Wireframes for mobile](docs/wireframes/wireframe-mobile-contact.png)
+- [Wireframes for tablet](docs/wireframes/wireframe-tablet-contact.png)
+- [Wireframes for desktop](docs/wireframes/wireframe-contact-desktop.png)
 
 ### Colors
 
