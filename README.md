@@ -24,6 +24,16 @@ This README serves as your guide to navigate through the building of this websit
       - [**Home Page**](#home-page)
       - [**Gallery Page**](#gallery-page)
       - [**Product Page**](#product-page)
+      - [**Contact Page**](#contact-page)
+    - [**Colors**](#colors)
+    -[**Design Philosophy/ Features**](#design-philosophy-features)
+  - [**Testing**](#testing)
+  - [**Deployment**](#deployment)
+  - [**Languages**](#languages)
+  - [**Software**](#software)
+  - [**Media**](#media)
+  - [**Credits**](#credits)
+  - [**Special thanks**](#special-thanks)
 
 ## Planning & developmnet
 
