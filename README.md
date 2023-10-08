@@ -12,7 +12,18 @@ This README serves as your guide to navigate through the building of this websit
 
 ## Table of Content
 
-<!-- Needs edit-->
+- [**EarthEcho Studios**](#EarthEcho-Studios)
+  - [**Table of Content**](#table-of-content)
+  - [**Planning & development**](#planning--developmnet)
+    - [**Project Goals**](#project-goals)
+    - [**User-Centered Approach**](#user-centered-approach)
+      - [**As a buisness Owner**](#as-a-buisness-owner)
+      - [**As a General user/costumer**](#as-a-general-usercostumer)
+      - [**As a New User**](#as-a-new-user)
+    - [**Wireframes**](#wireframes)
+      - [**Home Page**](#home-page)
+      - [**Gallery Page**](#gallery-page)
+      - [**Product Page**](#product-page)
 
 ## Planning & developmnet
 
@@ -34,7 +45,7 @@ In the process of creating EarthEcho Studios, I followed a plan that revolved ar
 
 ### User-Centered Approach
 
-#### As a buinsess Owner
+#### As a buisness Owner
 
 Sophie, as the owner of EarthEcho Studios ans the website, she had the following objectives:
 
