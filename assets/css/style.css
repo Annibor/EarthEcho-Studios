@@ -423,7 +423,7 @@ body {
 .lname,
 .email-cont,
 .textarea ::placeholder {
-  color: #888;
+  color: #333;
 }
 
 .btn-contact {
