@@ -127,38 +127,79 @@ The design of EarthEcho Studios website have been carefully thought out to creat
 
 - **Header**: A responsive navigation bar, that adapts to different screens sizes, ensuring easy access to all pages. The navbar collapse into a dropdown menu, when a certain sreen size is used, and the navbar is then reached by the classic burger icon.
 
+![Header Desktop]
+
+![Header Mobile]
+
 - **Navigation Buttons**: A responsive section of links to all pages of the website. As it is localised just above the footer, it also have a button "Back to top" so users don't have to scroll to the top of each page.
+
+![Navigation buttons Desktop]
+![Navigation buttons Tablet]
+![Navigation buttons Mobile]
 
 - **Footer**: A responsive footer that contains an address to the business, social media links, a newsletter sign-up option and copyright details.
 
+![Footer Desktop]
+![Footer Tablet]
+![Footer Mobile]
+
 - **Hero**: A visuallu appealing introduction featuring a picture of Sophie and brief overwies of the websites content and a brief introduction of Sophie.
+
+![Hero]
 
 - **Gallery Section**: This section is dedicated to showcasing a glimpse of Sophies photographies.
 
+![Gallery section]
+
 - **Gallery Page**: A presentation to the gallery section and high-quality images from former photoshoots, to give a deepdive into Sophies photography style, with a focus on image presentation and responsiveness.
+
+![Gallery page]
 
 - **Product Page**: A detailed description of the different kinds of photography Sophie does, and a high-quality image to each category.
 
+![Products page]
+
 - **Contact Page**: A user-friendly contact form and a textbox with a minimal but jet intresting layout to capture the users attention.
+
+![Contact page]
 
 ### Future Features
 
 Future features for the webpage are:
 
-- A direct link to the contact me page from the home page for quicker inquiries.
 - Smooth scrolling, to improve user experience.
-- Integration of a "Back to Top" button for convenient navigation.
-- ACatagorixation of the gaööery into different photography catagories.
+- Catagoritation of the gallery into different photography catagories.
 - A carousel of reviews from former costumers, to build trust.
 - Expansion of the contact form witg optiions for different types of photoshoots.
+- Being able to buy order and pay some of the photoshoots right away.
 
 ## Testing
 
 - Throughout the whole development of the webpage, I've made tests in:
 - Dev-tools
 - Lighthouse
-- W3c hmtl validator
-- W3c css validator (jigsaw)
+
+![Home Page Mobile]
+![Home Page Desktop]
+
+![Gallery Mobile]
+![Gallery Page Desktop]
+
+![Products Page Mobile]
+![Products Page Desktop]
+
+![Contact Page Mobile]
+![Contact Page Desktop]
+
+- W3c hmtl validator: I've used a extention clled Prettier in VS Code while developing, and this is why the website have these informations in the test.
+
+![HTML Validator Test Home Page]
+![HTML Validator Test Home Page]
+![HTML Validator Test Home Page]
+
+- W3c css validator for CSS code , Jigsaw
+
+![W3c CSS Validator Test](docs/testing/w3c-jigsaw.png)
 
 ## Deployment
 
