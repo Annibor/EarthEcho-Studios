@@ -26,7 +26,10 @@ This README serves as your guide to navigate through the building of this websit
       - [**Product Page**](#product-page)
       - [**Contact Page**](#contact-page)
     - [**Colors**](#colors) -[**Design Philosophy/ Features**](#design-philosophy-features)
-  - [**Testing**](#testing)
+  - [**Testing**](#testing) -[**Devtools**](#devtools)
+    - [**Ligthouse**](#lighthouse)
+      - [**Issues**](#issues)
+      - [**Results**](#results)
   - [**Deployment**](#deployment)
   - [**Languages**](#languages)
   - [**Software**](#software)
@@ -176,30 +179,53 @@ Future features for the webpage are:
 ## Testing
 
 - Throughout the whole development of the webpage, I've made tests in:
-- Dev-tools
-- Lighthouse
 
-![Home Page Mobile]
-![Home Page Desktop]
+### DevTools
 
-![Gallery Mobile]
-![Gallery Page Desktop]
+- Troughout the development I've used Devtools to inspect and test the website to be able to make the best I could for it.
 
-![Products Page Mobile]
-![Products Page Desktop]
+### Lighthouse
 
-![Contact Page Mobile]
-![Contact Page Desktop]
+#### Issues
+
+- I've used Lighthouse to test the website where I got the error about the color on the navbar text. The colors made it through the Contrast Color checker, but in Lighthouse it was ruled as an issue.
+
+![Issue with text color](<(docs/testing/issue-text-gallery.png)
+
+- Another error I got was the image size for the Home page and the Galley page, so I tried to make them even smaller, without loosing the quality of the images. In the next section are the results of the resizing and further opimization.
+
+![Issue Home Page](docs/testing/issue-imgs-home.png)
+![Issue Gallery Page](docs/testing/issues-img-gallery.png)
+
+#### Results
+
+- One of the hardest part of building this website where the images. It took a lot of effort and many redos before I got this result. Not all of them are 100% becasue of the amount of images on some of the pages, but I came to the conclution that if I would change the images even further, they would loose their quality, and therfore are the results between 96-100% in performance.
+
+![Home Page Mobile](docs/testing/lighthouse-home-mobile.png)
+![Home Page Desktop](docs/testing/lighthouse-home-desktop.png)
+
+![Gallery Mobile](docs/testing/lighthouse-gallery-mobile.png)
+![Gallery Page Desktop](docs/testing/lighthouse-gallery-desktop.png)
+
+![Products Page Mobile](docs/testing/lighthouse-products-mobile.png)
+![Products Page Desktop](docs/testing/lighthouse-product-desktop.png)
+
+![Contact Page Mobile](docs/testing/lighthouse-contact-mobile.png)
+![Contact Page Desktop](docs/testing/lighthouse-contact-desktop.png)
 
 - W3c hmtl validator: I've used a extention clled Prettier in VS Code while developing, and this is why the website have these informations in the test.
 
-![HTML Validator Test Home Page]
-![HTML Validator Test Home Page]
-![HTML Validator Test Home Page]
+![HTML Validator Test Home Page]()
+![HTML Validator Test Home Page]()
+![HTML Validator Test Home Page]()
 
 - W3c css validator for CSS code , Jigsaw
 
 ![W3c CSS Validator Test](docs/testing/w3c-jigsaw.png)
+
+### Manual testing
+
+- I have tested the website in Safari, Brave and Google Chrome without running in to any issues.
 
 ## Deployment
 
