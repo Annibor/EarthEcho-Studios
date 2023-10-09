@@ -140,16 +140,16 @@ The design of EarthEcho Studios website have been carefully thought out to creat
 
 - **Header**: A responsive navigation bar, that adapts to different screens sizes, ensuring easy access to all pages. The navbar collapse into a dropdown menu, when a certain sreen size is used, and the navbar is then reached by the classic burger icon.
 
-![Header Desktop](docs/screenshots/header-desktop.png)
-![Header Tablet](docs/screenshots/header-tablet.png)
-![Header Mobile](docs/screenshots/header-mobile.png)
-![Navigation buttons Mobile](docs/screenshots/navbar-mobile.png)
+- ![Header Desktop](docs/screenshots/header-desktop.png)
+- ![Header Tablet](docs/screenshots/header-tablet.png)
+- ![Header Mobile](docs/screenshots/header-mobile.png)
+- ![Navigation buttons Mobile](docs/screenshots/navbar-mobile.png)
 
 - **Navigation Buttons**: A responsive section of links to all pages of the website. As it is localised just above the footer, it also have a button "Back to top" so users don't have to scroll to the top of each page.
 
-- ![Navigation Buttons Desktop](docs/screenshots/buttons-desktop.png)
-- ![Navigation Buttons Tablet](docs/screenshots/buttons-tablet.png)
-- ![Navigation Buttons Mobile](docs/screenshots/buttons-mobile.png)
+![Navigation Buttons Desktop](docs/screenshots/buttons-desktop.png)
+![Navigation Buttons Tablet](docs/screenshots/buttons-tablet.png)
+![Navigation Buttons Mobile](docs/screenshots/buttons-mobile.png)
 
 - **Footer**: A responsive footer that contains an address to the business, social media links, a newsletter sign-up option and copyright details.
 
