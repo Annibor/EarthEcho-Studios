@@ -1,6 +1,6 @@
 # EarthEcho Studios
 
-![EarthEcho Studios](documentation)
+![EarthEcho Studios](https://annibor.github.io/EarthEcho-Studios/)
 
 # Introduction
 
@@ -36,7 +36,7 @@ This README serves as your guide to navigate through the building of this websit
   - [**Software**](#software)
   - [**Media**](#media) -[**Usage**](#usage) -[**Modification**](#modification) -[**Distribution**](#distrubition) -[**Private Use**](#private-use) -[**Liability**](#liability)
   - [**Credits**](#credits)
-  - [**Special thanks**](#special-thanks)
+  - [**Special thanks**](#special-thanks) -[**What I've learned**](#what-ive-learned)
 
 ## Planning & developmnet
 
@@ -340,3 +340,14 @@ My link is: [EartEcho Studios](https://annibor.github.io/EarthEcho-Studios/)
 - **Gemma & Roman: Code Institute Tutor support**: A big thank you to Gemma and Roman for giving me help and guidance during the development.
 
 - **David: Code Institute**: To David who quickly answerd any questions I had about the project, so I could keep developing and finish this project.
+
+## What I've learned
+
+- While developing this website I've learned a lot of things, not only the developing process but also about myself.
+- One big thing I've learned the hard way is to do the documentation in README throughout the developing. I only did a breif structure with basic information at the benning.
+  -I've learned the basics of using flex-grid and flex-box, which have been really fun to work with.
+- I've learned how to debug and test the code that I'm working on.
+- I've learned that it's okey to make misstakes, because that's when you learn the most.
+- I didn't know how to use Git or GitHub before starting this project, but now I feel that I know the basics of how to use them.
+- Another thing is that testing the code, debugging and doing research takes most of the time of the whole process.
+- On a personal level I've learned the learning process takes time, and by doing the same thing over and over for prectice and being curious is the best way to learn.
