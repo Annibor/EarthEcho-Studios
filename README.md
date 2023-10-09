@@ -114,15 +114,16 @@ I created my wireframes for the website by using [Balsamiq](https://balsamiq.com
 
 I used [Coolors](https://coolors.co/) for making a color palette for the website.
 
-- [Color palette]()
+- [Color palette](docs/screenshots/color-palette.png)
 
 I then used [Tint and Shades](https://maketintsandshades.com/#283618) to find different tints and shades of the colors from the original color palette.
 
-- [Tints and Shades]()
+- [Tints](docs/screenshots/tints-palette.png)
+- [Shades](docs/screenshots/shades-palette.png)
 
 I used [Color Contrast Shecker](https://coolors.co/contrast-checker/112a46-acc8e5) to make sure I used colors that had good contrast to eachother.
 
-- [Color Contrast]()
+- [Color Contrast](docs/screenshots/color-contrast-checker.png)
 
 ### Design Philosophy/ Features
 
