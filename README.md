@@ -25,7 +25,8 @@ This README serves as your guide to navigate through the building of this websit
       - [**Gallery Page**](#gallery-page)
       - [**Product Page**](#product-page)
       - [**Contact Page**](#contact-page)
-    - [**Colors**](#colors) -[**Design Philosophy/ Features**](#design-philosophy-features)
+    - [**Colors**](#colors)
+    - [**Fonts**](#fonts) -[**Design Philosophy/ Features**](#design-philosophy-features)
   - [**Testing**](#testing) -[**Devtools**](#devtools)
     - [**Ligthouse**](#lighthouse)
       - [**Issues**](#issues)
@@ -124,6 +125,10 @@ I then used [Tint and Shades](https://maketintsandshades.com/#283618) to find di
 I used [Color Contrast Shecker](https://coolors.co/contrast-checker/112a46-acc8e5) to make sure I used colors that had good contrast to eachother.
 
 - [Color Contrast](docs/screenshots/color-contrast-checker.png)
+
+### Fonts
+
+I used a font called Montserrat for headings and subheadings on the website, and for the text I used a font called Lato. I added Inter and Sans-serif as fallback fonts on the texts, and Sans-serif as a fallback for the headings and subheadings.
 
 ### Design Philosophy/ Features
 
