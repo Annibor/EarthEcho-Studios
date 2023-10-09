@@ -6,54 +6,6 @@
 /* ------------------------------------------------------------*/
 /*This website both styles before media query & after is based on Jonas Schmedtmanns Omnifood Project */
 /* ------------------------------------------------------------*/
-/*
- 
--1-TYPOGRAPHY SYSTEM 
-
---Font sizes (px) 
-10 / 12/ 14 / 16 / 18 / 20 / 24 / 26 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
-
---Font weights:
-Default: 400
-Medium:: 500
-Bold: 700
-
---Line heights: 
-Default: 1
-1.6
-
-
---SPACING SYSTEM (px) 
-2 / 4 / 8 / 12 / 16 / 24 / 32 / 48 / 64 / 80 / 96 / 128
-
-
--2-COLORS:
-#606c38
-#283618
-#fefae0, #FFFDF0
-#dda15e
-#4b2b0f
-
-Primary: #
-
---Tints::
---Shades:
-#96561e
-
-
---Accents:
---Greys: 
-#888
-#767676 (lightets grey allowed on #fff)
-#6f6f6f ( lightest grey allowed on #fefae0)
-#555
-#333
---Whitespace
-
---border-radious
-
---shadows
-*/
 
 /* Asterisk wildcard selector to override default styles added by the browser */
 * {
@@ -62,10 +14,8 @@ Primary: #
   box-sizing: border-box;
 }
 
-/* This is to chage 1 rem will be 10px and not 16px. Easier to count the rem. Copied from https://github.com/jonasschmedtmann/html-css-course/tree/master/final*/
+/* -- Based on Omnifood Project, link in README -- */
 html {
-  /* font-size: 10px; = 62.5&% */
-  /* Percentage of user's browser font-size settings */
   font-size: 62.5%;
   overflow-x: hidden;
 }
@@ -548,7 +498,6 @@ body {
 /* -- Media Query breakpoint Based on Omnifood Project, link in README -- */
 
 @media (max-width: 84rem) {
-
   /* -- Based on Omnifood Project, link in README -- */
   .hero {
     max-width: 120rem;
@@ -566,7 +515,6 @@ body {
 /* --Media Query breakpoint Based on Omnifood Project, link in README -- */
 
 @media (max-width: 75rem) {
-
   /* -- HTML font-size based on Omnifood Project, link in README -- */
 
   html {
@@ -624,7 +572,6 @@ body {
 /* -- Media Query breakpoint Based on Omnifood Project, link in README -- */
 
 @media (max-width: 59rem) {
-
   /* -- HTML font-size based on Omnifood Project, link in README -- */
 
   html {
