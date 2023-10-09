@@ -278,7 +278,8 @@ My link is: [EartEcho Studios](https://annibor.github.io/EarthEcho-Studios/)
 ## Software
 
 - I used Visual Studio Code to write the code.
-- I used Git to load and push my code to Github.
+- I used Git to load and push my code to Github and for version control.
+- I used GitHub for repository management.
 - I've used Squoosh.app to compromize all images.
 - I've used preinstalled app called "Prevew" to edit the sizes of the photos.
 - I've used Coolors.co to find a color palette for the website.
@@ -292,17 +293,41 @@ My link is: [EartEcho Studios](https://annibor.github.io/EarthEcho-Studios/)
 - Icons are taken from fontawsome.com
 - Favicons are from favicon.io
 
+## Usage
+
+- This project is available for viewing and may be used for educational purposes.
+
+## Modification
+
+- Modification, including altering, transforming or extending of this project is not permitted fon any commercial or public purposes without explicit permission.
+
+## Distrubition
+
+- The redistribution of this project, wheter in its original form or with modifications, is sricktly prohibited without prior consent.
+
+## Private Use
+
+- Feel free to use this project for private purposes, sush as personal reference or study.
+
+## Liability
+
+- The creator of this project shall not be held liable for any adverse outcomes or damages resulting from the use or misapplication of this project. Users are advised to exercise due care and discretion when utilizing the project's resources and functionalities.
+
+##
+
 ## Credits
 
 ### Content
 
 - The EarthEcho Studios website draws inspiratind fron Jonas Schmedtmann's Omnifood Project, available at [GitHub](https://github.com/jonasschmedtmann/html-css-course/tree/master/final).
 
-- The header and navbar design were influenced by the Omnifood Project ans Love Running Project available at [Github](https://github.com/Code-Institute-Solutions/love-running-v3/tree/main).
+- The header and navbar design were influenced by the Omnifood Project and Love Running Project available at [Github](https://github.com/Code-Institute-Solutions/love-running-v3/tree/main).
 
 - The layout for the gallery page is inspired by the exceptional work of George W. Park, available at [CodePen](https://codepen.io/GeorgePark/pen/vdqYom). I made costumizations for the layout. For example adjusting the box-shadow, the gap, and choosen specific images for this website. I opted to use the flex-box code from the original design. I choose to do like this because it was the best design for the specific page of the website.
 
 - The layout for images and the text to each image on the Product page are inspired by the work of George W. Park, available at [CodePen](https://codepen.io/GeorgePark/pen/vdqYom). I made the privious mentioned costumizations for the layout on this page, but also including the text boxexsunder each images. The box-shadow then lays under the image and the text-box like it is one component. I opted to use the flex-box code from the original design.
+
+  - The grid box used in the product page are inspired by Jonas Schmedtmann's Omnifood Project, available at [GitHub](https://github.com/jonasschmedtmann/html-css-course/tree/master/final).
 
 - This README is based on a README created by Davis Calikes, available at [GitHub](https://github.com/davidcalikes/portfolio-project-one#readme).
 
