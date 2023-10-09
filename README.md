@@ -234,10 +234,10 @@ Future features for the webpage are:
 [HTML Validator Test Home Page Del 2](docs/testing/w3c-index-test-2.png)
 ![HTML Validator Test Home Page Del 3](docs/testing/w3c-index-test-3.png)
 
-![HTML Validator Test Gallery Page Del 1](docs/testing/w3c-gallery-test-1.png)
+[HTML Validator Test Gallery Page Del 1](docs/testing/w3c-gallery-test-1.png)
 [HTML Validator Test Gallery Page Del 2](docs/testing/w3c-gallery-test-2.png)
 [HTML Validator Test Gallery Page Del 3](docs/testing/w3c-gallery-test-3.png)
-[HTML Validator Test Gallery Page Del 4](docs/testing/w3c-gallery-test-4.png)
+![HTML Validator Test Gallery Page Del 4](docs/testing/w3c-gallery-test-4.png)
 
 [HTML Validator Test Product Page Del 1](docs/testing/w3c-products-test-1.png)
 [HTML Validator Test Product Page Del 2](docs/testing/w3c-products-test-2.png)
