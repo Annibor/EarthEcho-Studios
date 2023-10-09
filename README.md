@@ -157,7 +157,13 @@ The design of EarthEcho Studios website have been carefully thought out to creat
 ![Footer Tablet](docs/screenshots/footer-tablet.png)
 ![Footer Mobile](docs/screenshots/footer-mobile.png)
 
-- **Hero**: A visually appealing introduction featuring a picture of Sophie and brief overwies of the websites content and a brief introduction of Sophie.
+- **Home Page**: A appealing Home page to make the user interested for the rest of the website.
+
+![Home page](docs/screenshots/home-desktop-page.png)
+![Home page](docs/screenshots/home-tablet-page.png)
+![Home page](docs/screenshots/home-mobile-page.png)
+
+- **Hero**: A visually appealing introduction featuring a picture of Sophie and brief description of the websites content and a brief introduction of Sophie.
 
 ![Hero](docs/screenshots/home-page-tablet-1.png)
 
