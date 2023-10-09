@@ -130,41 +130,48 @@ The design of EarthEcho Studios website have been carefully thought out to creat
 
 - **Header**: A responsive navigation bar, that adapts to different screens sizes, ensuring easy access to all pages. The navbar collapse into a dropdown menu, when a certain sreen size is used, and the navbar is then reached by the classic burger icon.
 
-![Header Desktop]
+![Header Desktop]()
 
 ![Header Mobile]
 
 - **Navigation Buttons**: A responsive section of links to all pages of the website. As it is localised just above the footer, it also have a button "Back to top" so users don't have to scroll to the top of each page.
 
-![Navigation buttons Desktop]
-![Navigation buttons Tablet]
-![Navigation buttons Mobile]
+![Navigation buttons Desktop](docs/screenshots/header-desktop.png)
+![Navigation buttons Tablet](docs/screenshots/header-tablet.png)
+![Navigation buttons Mobile](docs/screenshots/navbar-mobile.png)
 
 - **Footer**: A responsive footer that contains an address to the business, social media links, a newsletter sign-up option and copyright details.
 
-![Footer Desktop]
-![Footer Tablet]
-![Footer Mobile]
+![Footer Desktop](docs/screenshots/footer-desktop.png)
+![Footer Tablet](docs/screenshots/footer-tablet.png)
+![Footer Mobile](docs/screenshots/footer-mobile.png)
 
 - **Hero**: A visuallu appealing introduction featuring a picture of Sophie and brief overwies of the websites content and a brief introduction of Sophie.
 
-![Hero]
+![Hero](docs/screenshots/home-page-tablet-1.png)
 
 - **Gallery Section**: This section is dedicated to showcasing a glimpse of Sophies photographies.
 
-![Gallery section]
+![Gallery Section](docs/screenshots/home-page-tablet-2.png)
 
 - **Gallery Page**: A presentation to the gallery section and high-quality images from former photoshoots, to give a deepdive into Sophies photography style, with a focus on image presentation and responsiveness.
 
-![Gallery page]
+![Gallery page](docs/screenshots/gallery-desktop-page.png)
+![Gallery page](docs/screenshots/gallery-tablet-page.png)
+
+![Gallery page](docs/screenshots/gallery-mobile-page.png)
 
 - **Product Page**: A detailed description of the different kinds of photography Sophie does, and a high-quality image to each category.
 
-![Products page]
+![Products page](docs/screenshots/product-page-desktop.png)
+![Product Page Tablet](docs/screenshots/product-page-tablet.png)
+![Product Page Mobile](docs/screenshots/product-page-mobile.png)
 
 - **Contact Page**: A user-friendly contact form and a textbox with a minimal but jet intresting layout to capture the users attention.
 
-![Contact page]
+![Contact page](docs/screenshots/contact-page-desktop.png)
+![Contact Page](docs/screenshots/contact-tablet-page-1.png)
+![Contact Page][def]
 
 ### Future Features
 
@@ -290,3 +297,6 @@ My link is: [EartEcho Studios](https://annibor.github.io/EarthEcho-Studios/)
 - **Michel**: A heartfelt thank you to my amazing boyfriend for unwavering support throughout the wholr project.
 
 - **Pierre: Code Institute Student**:Pierre have been an invauable collaborator, offering discussions on project-related topics as well as discussions about code in general.
+
+
+[def]: docs/screenshots/contact-page-mobile.png
