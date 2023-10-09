@@ -34,7 +34,7 @@ This README serves as your guide to navigate through the building of this websit
   - [**Deployment**](#deployment)
   - [**Languages**](#languages)
   - [**Software**](#software)
-  - [**Media**](#media)
+  - [**Media**](#media) -[**Usage**](#usage) -[**Modification**](#modification) -[**Distribution**](#distrubition) -[**Private Use**](#private-use) -[**Liability**](#liability)
   - [**Credits**](#credits)
   - [**Special thanks**](#special-thanks)
 
@@ -257,7 +257,8 @@ Future features for the webpage are:
 
 ### Manual testing
 
-- I have tested the website in Safari, Brave and Google Chrome without running in to any issues.
+- I've tested the website in Safari, Brave and Google Chrome without running in to any issues.
+- I've tested the website from an Iphone safari as well.
 
 ## Deployment
 
