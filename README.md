@@ -230,22 +230,22 @@ Future features for the webpage are:
 
 - W3c hmtl validator: I've used a extention clled Prettier in VS Code while developing, and this is why the website have these informations in the test.
 
-[HTML Validator Test Home Page Del 1](docs/testing/w3c-index-test-1.png)
-[HTML Validator Test Home Page Del 2](docs/testing/w3c-index-test-2.png)
-![HTML Validator Test Home Page Del 3](docs/testing/w3c-index-test-3.png)
+- [HTML Validator Test Home Page Del 1](docs/testing/w3c-index-test-1.png)
+- [HTML Validator Test Home Page Del 2](docs/testing/w3c-index-test-2.png)
+- ![HTML Validator Test Home Page Del 3](docs/testing/w3c-index-test-3.png)
 
-[HTML Validator Test Gallery Page Del 1](docs/testing/w3c-gallery-test-1.png)
-[HTML Validator Test Gallery Page Del 2](docs/testing/w3c-gallery-test-2.png)
-[HTML Validator Test Gallery Page Del 3](docs/testing/w3c-gallery-test-3.png)
-![HTML Validator Test Gallery Page Del 4](docs/testing/w3c-gallery-test-4.png)
+- [HTML Validator Test Gallery Page Del 1](docs/testing/w3c-gallery-test-1.png)
+- [HTML Validator Test Gallery Page Del 2](docs/testing/w3c-gallery-test-2.png)
+- [HTML Validator Test Gallery Page Del 3](docs/testing/w3c-gallery-test-3.png)
+- ![HTML Validator Test Gallery Page Del 4](docs/testing/w3c-gallery-test-4.png)
 
-[HTML Validator Test Product Page Del 1](docs/testing/w3c-products-test-1.png)
-[HTML Validator Test Product Page Del 2](docs/testing/w3c-products-test-2.png)
-![HTML Validator Test Product Page Del 3](docs/testing/w3c-products-test-3.png)
+- [HTML Validator Test Product Page Del 1](docs/testing/w3c-products-test-1.png)
+- [HTML Validator Test Product Page Del 2](docs/testing/w3c-products-test-2.png)
+- ![HTML Validator Test Product Page Del 3](docs/testing/w3c-products-test-3.png)
 
-[HTML Validator Test Contact Page](docs/testing/w3c-contact-test-1.png)
-[HTML Validator Test Contact Page](docs/testing/w3c-contact-test-2.png)
-![HTML Validator Test Contact Page](docs/testing/w3c-contact-test-3.png)
+- [HTML Validator Test Contact Page](docs/testing/w3c-contact-test-1.png)
+- [HTML Validator Test Contact Page](docs/testing/w3c-contact-test-2.png)
+- ![HTML Validator Test Contact Page](docs/testing/w3c-contact-test-3.png)
 
 - W3c css validator for CSS code , Jigsaw
 
