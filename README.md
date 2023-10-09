@@ -351,4 +351,4 @@ My link is: [EartEcho Studios](https://annibor.github.io/EarthEcho-Studios/)
 - I've learned that it's okey to make misstakes, because that's when you learn the most.
 - I didn't know how to use Git or GitHub before starting this project, but now I feel that I know the basics of how to use them.
 - Another thing is that testing the code, debugging and doing research takes most of the time of the whole process.
-- On a personal level I've learned the learning process takes time, and by doing the same thing over and over for prectice and being curious is the best way to learn.
+- On a personal level I've learned the learning takes time, and by doing the same thing over and over for prectice and being curious is the best way to learn.
