@@ -243,7 +243,9 @@ Future features for the webpage are:
 [HTML Validator Test Product Page Del 2](docs/testing/w3c-products-test-2.png)
 ![HTML Validator Test Product Page Del 3](docs/testing/w3c-products-test-3.png)
 
-![HTML Validator Test Contact Page]()
+[HTML Validator Test Contact Page](docs/testing/w3c-contact-test-1.png)
+[HTML Validator Test Contact Page](docs/testing/w3c-contact-test-2.png)
+![HTML Validator Test Contact Page](docs/testing/w3c-contact-test-3.png)
 
 - W3c css validator for CSS code , Jigsaw
 
