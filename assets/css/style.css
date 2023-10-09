@@ -4,7 +4,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Lato:wght@300;400;700;900&family=Montserrat:wght@100;200;300;400;500;700&family=Work+Sans:wght@100;300;500&display=swap");
 
 /* ------------------------------------------------------------*/
-/*This website is based on Jonas Schmedtmanns Omnifood Project */
+/*This website both styles before media query & after is based on Jonas Schmedtmanns Omnifood Project */
 /* ------------------------------------------------------------*/
 /*
  
@@ -314,8 +314,6 @@ body {
 /* -- PRODUCTS.HTML -- */
 /* --------------------*/
 
-/* -- Based on George W. Parks CodePen, link in README -- */
-
 .container-products {
   padding: 5rem;
   max-width: 170rem;
@@ -547,9 +545,11 @@ body {
 /* -- BELOW 1344px (smaller desktops) -- */
 /* --------------------------------------*/
 
-/* -- Based on Omnifood Project, link in README -- */
+/* -- Media Query breakpoint Based on Omnifood Project, link in README -- */
 
 @media (max-width: 84rem) {
+
+  /* -- Based on Omnifood Project, link in README -- */
   .hero {
     max-width: 120rem;
   }
@@ -563,12 +563,16 @@ body {
 /* -- BELOW 1200px (Landscape Tablets ) -- */
 /* ----------------------------------------*/
 
-/* -- Based on Omnifood Project, link in README -- */
+/* --Media Query breakpoint Based on Omnifood Project, link in README -- */
 
 @media (max-width: 75rem) {
+
+  /* -- HTML font-size based on Omnifood Project, link in README -- */
+
   html {
     font-size: 56.25%;
   }
+
   .grid {
     column-gap: 3.8rem;
     row-gap: 2.8rem;
@@ -617,9 +621,12 @@ body {
 /* -- BELOW 944px (Tablets) -- */
 /* ----------------------------*/
 
-/* -- Based on Omnifood Project, link in README -- */
+/* -- Media Query breakpoint Based on Omnifood Project, link in README -- */
 
 @media (max-width: 59rem) {
+
+  /* -- HTML font-size based on Omnifood Project, link in README -- */
+
   html {
     font-size: 50%;
   }
@@ -732,7 +739,7 @@ body {
 /* -- BELOW 704px (Smaller Tablets) -- */
 /* ------------------------------------*/
 
-/* -- Based on Omnifood Project, link in README -- */
+/* --Media Query breakpoint Based on Omnifood Project, link in README -- */
 
 @media (max-width: 44rem) {
   .gallery-text {
@@ -794,7 +801,7 @@ body {
 /* -- BELOW 544pxpx (Phones) -- */
 /* -----------------------------*/
 
-/* -- Based on Omnifood Project, link in README -- */
+/* -- Media Query breakpoint Based on Omnifood Project, link in README -- */
 
 @media (max-width: 34rem) {
   .grid {
