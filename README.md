@@ -143,14 +143,13 @@ The design of EarthEcho Studios website have been carefully thought out to creat
 ![Header Desktop](docs/screenshots/header-desktop.png)
 ![Header Tablet](docs/screenshots/header-tablet.png)
 ![Header Mobile](docs/screenshots/header-mobile.png)
-
-![Header Mobile]
+![Navigation buttons Mobile](docs/screenshots/navbar-mobile.png)
 
 - **Navigation Buttons**: A responsive section of links to all pages of the website. As it is localised just above the footer, it also have a button "Back to top" so users don't have to scroll to the top of each page.
 
-![Navigation buttons Desktop](docs/screenshots/header-desktop.png)
-![Navigation buttons Tablet](docs/screenshots/header-tablet.png)
-![Navigation buttons Mobile](docs/screenshots/navbar-mobile.png)
+![Navigation Buttons Desktop](docs/screenshots/buttons-desktop.png)
+![Navigation Buttons Tablet](docs/screenshots/buttons-tablet.png)
+![Navigation Buttons Mobile](docs/screenshots/buttons-mobile.png)
 
 - **Footer**: A responsive footer that contains an address to the business, social media links, a newsletter sign-up option and copyright details.
 
