@@ -126,10 +126,9 @@ I used [Color Contrast Shecker](https://coolors.co/contrast-checker/112a46-acc8e
 
 - ![Color Contrast](docs/screenshots/color-contrast-checker.png)
 
-- At first I used all the colors from the color palette, but once I made the color contrast checks, I choose to use some tints and shades from the original colors instead. 
-  - Two tints from the color #fefae0 I used where #fffdf0 and #fffef9. 
+- At first I used all the colors from the color palette, but once I made the color contrast checks, I choose to use some tints and shades from the original colors instead.
+  - Two tints from the color #fefae0 I used where #fffdf0 and #fffef9.
   - Two shades I used from the color #bc6c25 where #96561e and #4b2b0f.
-
 
 ### Fonts
 
@@ -313,4 +312,6 @@ My link is: [EartEcho Studios](https://annibor.github.io/EarthEcho-Studios/)
 
 - **Pierre: Code Institute Student**:Pierre have been an invauable collaborator, offering discussions on project-related topics as well as discussions about code in general.
 
-[def]: docs/screenshots/contact-page-mobile.png
+- **Gemma & Roman: Code Institute Tutor support**: A big thank you to Gemma and Roman for giving me help and guidance during the development.
+
+- **David: Code Institute**: To David who quickly answerd any questions I had about the project, so I could keep developing and finish this project.
