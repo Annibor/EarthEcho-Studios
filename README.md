@@ -130,7 +130,9 @@ The design of EarthEcho Studios website have been carefully thought out to creat
 
 - **Header**: A responsive navigation bar, that adapts to different screens sizes, ensuring easy access to all pages. The navbar collapse into a dropdown menu, when a certain sreen size is used, and the navbar is then reached by the classic burger icon.
 
-![Header Desktop]()
+![Header Desktop](docs/screenshots/header-desktop.png)
+![Header Tablet](docs/screenshots/header-tablet.png)
+![Header Mobile](docs/screenshots/header-mobile.png)
 
 ![Header Mobile]
 
@@ -146,7 +148,7 @@ The design of EarthEcho Studios website have been carefully thought out to creat
 ![Footer Tablet](docs/screenshots/footer-tablet.png)
 ![Footer Mobile](docs/screenshots/footer-mobile.png)
 
-- **Hero**: A visuallu appealing introduction featuring a picture of Sophie and brief overwies of the websites content and a brief introduction of Sophie.
+- **Hero**: A visually appealing introduction featuring a picture of Sophie and brief overwies of the websites content and a brief introduction of Sophie.
 
 ![Hero](docs/screenshots/home-page-tablet-1.png)
 
@@ -171,7 +173,7 @@ The design of EarthEcho Studios website have been carefully thought out to creat
 
 ![Contact page](docs/screenshots/contact-page-desktop.png)
 ![Contact Page](docs/screenshots/contact-tablet-page-1.png)
-![Contact Page][def]
+![Contact Page](docs/screenshots/contact-page-maobile-1.png)
 
 ### Future Features
 
@@ -297,6 +299,5 @@ My link is: [EartEcho Studios](https://annibor.github.io/EarthEcho-Studios/)
 - **Michel**: A heartfelt thank you to my amazing boyfriend for unwavering support throughout the wholr project.
 
 - **Pierre: Code Institute Student**:Pierre have been an invauable collaborator, offering discussions on project-related topics as well as discussions about code in general.
-
 
 [def]: docs/screenshots/contact-page-mobile.png
