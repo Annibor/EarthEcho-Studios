@@ -113,7 +113,7 @@ I created my wireframes for the website by using [Balsamiq](https://balsamiq.com
 
 ### Colors
 
-I used [Coolors](https://coolors.co/) for making a color palette for the website.
+- I used [Coolors](https://coolors.co/) for making a color palette for the website.
 
 - ![Color palette](docs/screenshots/color-palette.png)
 
@@ -125,6 +125,11 @@ I then used [Tint and Shades](https://maketintsandshades.com/#283618) to find di
 I used [Color Contrast Shecker](https://coolors.co/contrast-checker/112a46-acc8e5) to make sure I used colors that had good contrast to eachother.
 
 - ![Color Contrast](docs/screenshots/color-contrast-checker.png)
+
+- At first I used all the colors from the color palette, but once I made the color contrast checks, I choose to use some tints and shades from the original colors instead. 
+  - Two tints from the color #fefae0 I used where #fffdf0 and #fffef9. 
+  - Two shades I used from the color #bc6c25 where #96561e and #4b2b0f.
+
 
 ### Fonts
 
