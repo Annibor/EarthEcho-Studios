@@ -277,15 +277,16 @@ My link is: [EartEcho Studios](https://annibor.github.io/EarthEcho-Studios/)
 
 ## Software
 
-- I used Visual Studio Code to write the code.
-- I used Git to load and push my code to Github and for version control.
-- I used GitHub for repository management.
+- I've used Visual Studio Code to write the code.
+- I've used Git to load and push my code to Github and for version control.
+- I've used GitHub for repository management.
 - I've used Squoosh.app to compromize all images.
 - I've used preinstalled app called "Prevew" to edit the sizes of the photos.
 - I've used Coolors.co to find a color palette for the website.
 - I've also used Coolors.co to contrast check text colors and background colors.
 - I've used maketintsandshades.com to find evetuals tints and shadow colors as a complement for the color palette.
 - I've used Balsamiq when I made the wireframes for the website.
+- I've used Chat GPT and google translate for some translations and questions.
 
 ## Media
 
@@ -312,8 +313,6 @@ My link is: [EartEcho Studios](https://annibor.github.io/EarthEcho-Studios/)
 ## Liability
 
 - The creator of this project shall not be held liable for any adverse outcomes or damages resulting from the use or misapplication of this project. Users are advised to exercise due care and discretion when utilizing the project's resources and functionalities.
-
-##
 
 ## Credits
 
