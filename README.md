@@ -194,6 +194,7 @@ Future features for the webpage are:
 - A carousel of reviews from former costumers, to build trust.
 - Expansion of the contact form witg optiions for different types of photoshoots.
 - Being able to buy order and pay some of the photoshoots right away.
+- A map or link to a map by the address in the footer.
 
 ## Testing
 
